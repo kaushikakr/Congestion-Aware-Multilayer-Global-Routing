@@ -8,6 +8,8 @@ import numpy as np
 import time
 import logging
 
+from sqlalchemy import column, null
+
 
 folder = 'a_star_logs_and_results'
 timestr = time.strftime("%Y%m%d-%H%M%S")
@@ -227,13 +229,28 @@ def visualize(paths):
     grid = pd.DataFrame(
         [],
         index=pd.MultiIndex.from_tuples(coordinates, names=["L", "X", "Y"]),
-        columns=["reached"]
+        columns=["reached", "edge_congestion"]
     )
 
     grid["reached"] = 0
     for i in range(len(paths)):
         for j in paths[i]:
             grid.at[j, "reached"] = i+1
+    print(num_used_tracks)
+    print("***********************************************")
+    
+    grid["edge_congestion"] = 0
+    for i in range(len(paths)):
+        for j in paths[i]:
+            print("j is", j)
+            # print("Number of used tracks", num_used_tracks[j])
+            # print("Capacity", capacity["M"+str(j[0])])
+            if(j in num_used_tracks.keys()):
+                grid.at[j, "edge_congestion"] = 100*(num_used_tracks[j]/capacity["M"+str(j[0])])
+            else:
+                grid.at[j, "edge_congestion"] = 0
+
+            
 
     '''
     image1 = []
@@ -248,56 +265,65 @@ def visualize(paths):
     B = np.reshape(image1, (-1, num_cols))
     # print(B)
     np.savetxt(r"grid_data.txt", B, fmt="%d")
+
     '''
+
+    # Visualize the denisty of routing
+    route_density = None
+
+    
+
+
     image2 = []
     for j in range(num_rows-1, 0, -1):
         for i in range(num_cols):
-            image2.append(grid.at[(6, i, j), "reached"])
-    f2, i2 = create_Fig(np.reshape(image2, (-1, num_cols)))
+            image2.append(grid.at[(6, i, j), "edge_congestion"])
+    #f2, i2 = create_Fig(np.reshape(image2, (-1, num_cols)))
     X2 = np.reshape(image2, (-1, num_cols))
-    #fig, axs = plt.subplots(ncols=1, nrows=2)
-    #sns.heatmap(X2, ax=axs[0][0]).invert_yaxis()
+    fig, axs = plt.subplots(ncols=3, nrows=2)
+    sns.heatmap(X2, ax=axs[0][0]).invert_yaxis()
 
     image31 = []
     for j in range(num_rows-1, 0, -1):
         for i in range(num_cols):
-            image31.append(grid.at[(7, i, j), "reached"])
-    f3, i3 = create_Fig(np.reshape(image31, (-1, num_cols)))
-    #X31 = np.reshape(image31, (-1, num_cols))
-    #sns.heatmap(X31, ax=axs[0][1]).invert_yaxis()
+            image31.append(grid.at[(7, i, j), "edge_congestion"])
+    #f3, i3 = create_Fig(np.reshape(image31, (-1, num_cols)))
+    X31 = np.reshape(image31, (-1, num_cols))
+    sns.heatmap(X31, ax=axs[0][1]).invert_yaxis()
 
     image3 = []
     for j in range(num_rows-1, 0, -1):
         for i in range(num_cols):
-            image3.append(grid.at[(8, i, j), "reached"])
-    f4, i4 = create_Fig(np.reshape(image3, (-1, num_cols)))
-    # X3 = np.reshape(image3, (-1, num_cols))
-    # sns.heatmap(X3, ax=axs[0][2]).invert_yaxis()
+            image3.append(grid.at[(8, i, j), "edge_congestion"])
+    #f4, i4 = create_Fig(np.reshape(image3, (-1, num_cols)))
+    X3 = np.reshape(image3, (-1, num_cols))
+    sns.heatmap(X3, ax=axs[0][2]).invert_yaxis()
     # a2.invert_yaxis()
 
     image4 = []
     for j in range(num_rows-1, 0, -1):
         for i in range(num_cols):
-            image4.append(grid.at[(9, i, j), "reached"])
-    f5, i5 = create_Fig(np.reshape(image4, (-1, num_cols)))
-    # X4 = np.reshape(image4, (-1, num_cols))
-    # sns.heatmap(X4, ax=axs[0][3]).invert_yaxis()
+            image4.append(grid.at[(9, i, j), "edge_congestion"])
+    #f5, i5 = create_Fig(np.reshape(image4, (-1, num_cols)))
+    X4 = np.reshape(image4, (-1, num_cols))
+    sns.heatmap(X4, ax=axs[1][0]).invert_yaxis()
 
     image5 = []
     for j in range(num_rows-1, 0, -1):
         for i in range(num_cols):
-            image5.append(grid.at[(10, i, j), "reached"])
-    f6, i6 = create_Fig(np.reshape(image5, (-1, num_cols)))
-    # X5 = np.reshape(image5, (-1, num_cols))
-    # sns.heatmap(X5, ax=axs[0][4]).invert_yaxis()
+            image5.append(grid.at[(10, i, j), "edge_congestion"])
+    #f6, i6 = create_Fig(np.reshape(image5, (-1, num_cols)))
+    X5 = np.reshape(image5, (-1, num_cols))
+    sns.heatmap(X5, ax=axs[1][1]).invert_yaxis()
+
     print("LAST ONE")
     image6 = []
     for j in range(num_rows-1, 0, -1):
         for i in range(num_cols):
-            image6.append(grid.at[(11, i, j), "reached"])
-    f7, i7 = create_Fig(np.reshape(image6, (-1, num_cols)))
-    # X6 = np.reshape(image6, (-1, num_cols))
-    # sns.heatmap(X6, ax=axs[1][0]).invert_yaxis()
+            image6.append(grid.at[(11, i, j), "edge_congestion"])
+    #f7, i7 = create_Fig(np.reshape(image6, (-1, num_cols)))
+    X6 = np.reshape(image6, (-1, num_cols))
+    sns.heatmap(X6, ax=axs[1][2]).invert_yaxis()
 
     plt.xlim(0, num_cols)
     plt.ylim(0, num_rows)
@@ -317,21 +343,21 @@ with open(input_json_file) as f:
     num_layers = data["num_of_layers"]
     weight = data["edge_weight"]
     num_cols = int(
-        (float(chip_dimensions['UR_X']) - float(chip_dimensions['LL_X'])) / 5) + 1
+        (float(chip_dimensions['UR_X']) - float(chip_dimensions['LL_X'])) / 10) + 1
     num_rows = int(
-        (float(chip_dimensions['UR_Y']) - float(chip_dimensions['LL_Y'])) / 5) + 1
+        (float(chip_dimensions['UR_Y']) - float(chip_dimensions['LL_Y'])) / 10) + 1
 
     for inp in data['netlist']:
         in_pin_name = list(inp.keys())[0]
-        in_x = int(inp[in_pin_name]['x_'+in_pin_name]/5)
+        in_x = int(inp[in_pin_name]['x_'+in_pin_name]/10)
 
-        in_y = int(inp[in_pin_name]['y_'+in_pin_name]/5)
+        in_y = int(inp[in_pin_name]['y_'+in_pin_name]/10)
         print("INPIN:::::", in_x, in_y)
         in_layer = int(inp[in_pin_name]['layer'])
 
         out_pin_name = list(inp.keys())[1]
-        out_x = int(inp[out_pin_name]['x_'+out_pin_name]/5)
-        out_y = int(inp[out_pin_name]['y_'+out_pin_name]/5)
+        out_x = int(inp[out_pin_name]['x_'+out_pin_name]/10)
+        out_y = int(inp[out_pin_name]['y_'+out_pin_name]/10)
         out_layer = int(inp[out_pin_name]['layer'])
         print("OUTPIN:::::", out_x, out_y)
 

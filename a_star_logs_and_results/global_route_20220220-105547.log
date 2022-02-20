@@ -1,0 +1,401 @@
+DEBUG:root:Los gehts!
+DEBUG:root:WIRE NUMBER:::: 1 OUT OF 100
+DEBUG:root:PIN::::::[(8, 133, 49), (8, 0, 63), 'DATA', ('pin_out_1', 'pin_in_1'), 'default']
+DEBUG:root:A-STAR START::::: (8, 133, 49)(8, 0, 63) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.07205772399902344
+DEBUG:root:WIRE NUMBER:::: 2 OUT OF 100
+DEBUG:root:PIN::::::[(9, 0, 62), (9, 133, 42), 'HIGH_SPEED_DATA', ('pin_out_2', 'pin_in_2'), 'default']
+DEBUG:root:A-STAR START::::: (9, 0, 62)(9, 133, 42) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0861959457397461
+DEBUG:root:WIRE NUMBER:::: 3 OUT OF 100
+DEBUG:root:PIN::::::[(10, 133, 42), (10, 133, 42), 'FAST_CLOCK', ('pin_out_3', 'pin_in_3'), 'default']
+DEBUG:root:A-STAR START::::: (10, 133, 42)(10, 133, 42) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.0
+DEBUG:root:WIRE NUMBER:::: 4 OUT OF 100
+DEBUG:root:PIN::::::[(8, 58, 14), (9, 62, 183), 'CLOCK', ('pin_out_4', 'pin_in_4'), 'default']
+DEBUG:root:A-STAR START::::: (8, 58, 14)(9, 62, 183) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.009776830673217773
+DEBUG:root:WIRE NUMBER:::: 5 OUT OF 100
+DEBUG:root:PIN::::::[(9, 3, 57), (9, 151, 184), 'CLOCK', ('pin_out_5', 'pin_in_5'), 'default']
+DEBUG:root:A-STAR START::::: (9, 3, 57)(9, 151, 184) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.35331010818481445
+DEBUG:root:WIRE NUMBER:::: 6 OUT OF 100
+DEBUG:root:PIN::::::[(11, 51, 72), (11, 119, 40), 'FAST_CLOCK', ('pin_out_6', 'pin_in_6'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 51, 72)(11, 119, 40) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.07744789123535156
+DEBUG:root:WIRE NUMBER:::: 7 OUT OF 100
+DEBUG:root:PIN::::::[(11, 154, 67), (11, 17, 46), 'FAST_CLOCK', ('pin_out_7', 'pin_in_7'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 154, 67)(11, 17, 46) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.0537111759185791
+DEBUG:root:WIRE NUMBER:::: 8 OUT OF 100
+DEBUG:root:PIN::::::[(8, 51, 125), (9, 64, 89), 'HIGH_SPEED_DATA', ('pin_out_8', 'pin_in_8'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 51, 125)(9, 64, 89) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0031919479370117188
+DEBUG:root:WIRE NUMBER:::: 9 OUT OF 100
+DEBUG:root:PIN::::::[(6, 3, 114), (7, 144, 59), 'DATA', ('pin_out_9', 'pin_in_9'), 'default']
+DEBUG:root:A-STAR START::::: (6, 3, 114)(7, 144, 59) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.11398601531982422
+DEBUG:root:WIRE NUMBER:::: 10 OUT OF 100
+DEBUG:root:PIN::::::[(11, 182, 28), (11, 101, 173), 'FAST_CLOCK', ('pin_out_10', 'pin_in_10'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 182, 28)(11, 101, 173) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.12795233726501465
+DEBUG:root:WIRE NUMBER:::: 11 OUT OF 100
+DEBUG:root:PIN::::::[(8, 114, 178), (6, 2, 140), 'DATA', ('pin_out_11', 'pin_in_11'), 'default']
+DEBUG:root:A-STAR START::::: (8, 114, 178)(6, 2, 140) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0652918815612793
+DEBUG:root:WIRE NUMBER:::: 12 OUT OF 100
+DEBUG:root:PIN::::::[(10, 147, 16), (10, 79, 56), 'FAST_CLOCK', ('pin_out_12', 'pin_in_12'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (10, 147, 16)(10, 79, 56) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.0020117759704589844
+DEBUG:root:WIRE NUMBER:::: 13 OUT OF 100
+DEBUG:root:PIN::::::[(8, 102, 139), (6, 68, 23), 'DATA', ('pin_out_13', 'pin_in_13'), 'default']
+DEBUG:root:A-STAR START::::: (8, 102, 139)(6, 68, 23) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.03639817237854004
+DEBUG:root:WIRE NUMBER:::: 14 OUT OF 100
+DEBUG:root:PIN::::::[(8, 169, 10), (8, 70, 176), 'HIGH_SPEED_DATA', ('pin_out_14', 'pin_in_14'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 169, 10)(8, 70, 176) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0010361671447753906
+DEBUG:root:WIRE NUMBER:::: 15 OUT OF 100
+DEBUG:root:PIN::::::[(8, 155, 0), (7, 130, 155), 'DATA', ('pin_out_15', 'pin_in_15'), 'default']
+DEBUG:root:A-STAR START::::: (8, 155, 0)(7, 130, 155) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.033216238021850586
+DEBUG:root:WIRE NUMBER:::: 16 OUT OF 100
+DEBUG:root:PIN::::::[(9, 84, 73), (9, 60, 193), 'CLOCK', ('pin_out_16', 'pin_in_16'), 'default']
+DEBUG:root:A-STAR START::::: (9, 84, 73)(9, 60, 193) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.029274940490722656
+DEBUG:root:WIRE NUMBER:::: 17 OUT OF 100
+DEBUG:root:PIN::::::[(7, 57, 95), (9, 0, 57), 'CLOCK', ('pin_out_17', 'pin_in_17'), 'default']
+DEBUG:root:A-STAR START::::: (7, 57, 95)(9, 0, 57) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.019769906997680664
+DEBUG:root:WIRE NUMBER:::: 18 OUT OF 100
+DEBUG:root:PIN::::::[(9, 109, 95), (9, 69, 41), 'HIGH_SPEED_DATA', ('pin_out_18', 'pin_in_18'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 109, 95)(9, 69, 41) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.016767024993896484
+DEBUG:root:WIRE NUMBER:::: 19 OUT OF 100
+DEBUG:root:PIN::::::[(10, 61, 44), (11, 96, 32), 'FAST_CLOCK', ('pin_out_19', 'pin_in_19'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (10, 61, 44)(11, 96, 32) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.0020325183868408203
+DEBUG:root:WIRE NUMBER:::: 20 OUT OF 100
+DEBUG:root:PIN::::::[(9, 157, 89), (9, 144, 71), 'CLOCK', ('pin_out_20', 'pin_in_20'), 'default']
+DEBUG:root:A-STAR START::::: (9, 157, 89)(9, 144, 71) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.0010352134704589844
+DEBUG:root:WIRE NUMBER:::: 21 OUT OF 100
+DEBUG:root:PIN::::::[(7, 127, 73), (9, 176, 117), 'CLOCK', ('pin_out_21', 'pin_in_21'), 'default']
+DEBUG:root:A-STAR START::::: (7, 127, 73)(9, 176, 117) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.02331995964050293
+DEBUG:root:WIRE NUMBER:::: 22 OUT OF 100
+DEBUG:root:PIN::::::[(8, 37, 164), (9, 141, 175), 'CLOCK', ('pin_out_22', 'pin_in_22'), 'default']
+DEBUG:root:A-STAR START::::: (8, 37, 164)(9, 141, 175) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.008879899978637695
+DEBUG:root:WIRE NUMBER:::: 23 OUT OF 100
+DEBUG:root:PIN::::::[(8, 13, 107), (7, 23, 16), 'DATA', ('pin_out_23', 'pin_in_23'), 'default']
+DEBUG:root:A-STAR START::::: (8, 13, 107)(7, 23, 16) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0009999275207519531
+DEBUG:root:WIRE NUMBER:::: 24 OUT OF 100
+DEBUG:root:PIN::::::[(9, 81, 61), (8, 174, 171), 'CLOCK', ('pin_out_24', 'pin_in_24'), 'default']
+DEBUG:root:A-STAR START::::: (9, 81, 61)(8, 174, 171) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.12003469467163086
+DEBUG:root:WIRE NUMBER:::: 25 OUT OF 100
+DEBUG:root:PIN::::::[(10, 148, 75), (10, 152, 120), 'FAST_CLOCK', ('pin_out_25', 'pin_in_25'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (10, 148, 75)(10, 152, 120) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.0010352134704589844
+DEBUG:root:WIRE NUMBER:::: 26 OUT OF 100
+DEBUG:root:PIN::::::[(8, 75, 59), (8, 103, 168), 'HIGH_SPEED_DATA', ('pin_out_26', 'pin_in_26'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 75, 59)(8, 103, 168) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.026935100555419922
+DEBUG:root:WIRE NUMBER:::: 27 OUT OF 100
+DEBUG:root:PIN::::::[(8, 174, 0), (9, 107, 93), 'CLOCK', ('pin_out_27', 'pin_in_27'), 'default']
+DEBUG:root:A-STAR START::::: (8, 174, 0)(9, 107, 93) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.0016620159149169922
+DEBUG:root:WIRE NUMBER:::: 28 OUT OF 100
+DEBUG:root:PIN::::::[(7, 126, 71), (9, 12, 56), 'CLOCK', ('pin_out_28', 'pin_in_28'), 'default']
+DEBUG:root:A-STAR START::::: (7, 126, 71)(9, 12, 56) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.03246927261352539
+DEBUG:root:WIRE NUMBER:::: 29 OUT OF 100
+DEBUG:root:PIN::::::[(9, 128, 189), (8, 106, 1), 'HIGH_SPEED_DATA', ('pin_out_29', 'pin_in_29'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 128, 189)(8, 106, 1) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.07986879348754883
+DEBUG:root:WIRE NUMBER:::: 30 OUT OF 100
+DEBUG:root:PIN::::::[(9, 79, 85), (7, 176, 94), 'CLOCK', ('pin_out_30', 'pin_in_30'), 'default']
+DEBUG:root:A-STAR START::::: (9, 79, 85)(7, 176, 94) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.0050334930419921875
+DEBUG:root:WIRE NUMBER:::: 31 OUT OF 100
+DEBUG:root:PIN::::::[(11, 124, 18), (11, 111, 15), 'FAST_CLOCK', ('pin_out_31', 'pin_in_31'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 124, 18)(11, 111, 15) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.0
+DEBUG:root:WIRE NUMBER:::: 32 OUT OF 100
+DEBUG:root:PIN::::::[(8, 102, 113), (8, 120, 106), 'DATA', ('pin_out_32', 'pin_in_32'), 'default']
+DEBUG:root:A-STAR START::::: (8, 102, 113)(8, 120, 106) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0015268325805664062
+DEBUG:root:WIRE NUMBER:::: 33 OUT OF 100
+DEBUG:root:PIN::::::[(8, 35, 55), (8, 183, 132), 'CLOCK', ('pin_out_33', 'pin_in_33'), 'default']
+DEBUG:root:A-STAR START::::: (8, 35, 55)(8, 183, 132) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.1666862964630127
+DEBUG:root:WIRE NUMBER:::: 34 OUT OF 100
+DEBUG:root:PIN::::::[(7, 47, 31), (6, 20, 12), 'DATA', ('pin_out_34', 'pin_in_34'), 'default']
+DEBUG:root:A-STAR START::::: (7, 47, 31)(6, 20, 12) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0031778812408447266
+DEBUG:root:WIRE NUMBER:::: 35 OUT OF 100
+DEBUG:root:PIN::::::[(11, 11, 44), (11, 17, 94), 'FAST_CLOCK', ('pin_out_35', 'pin_in_35'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 11, 44)(11, 17, 94) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.0020368099212646484
+DEBUG:root:WIRE NUMBER:::: 36 OUT OF 100
+DEBUG:root:PIN::::::[(10, 35, 157), (11, 117, 64), 'FAST_CLOCK', ('pin_out_36', 'pin_in_36'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (10, 35, 157)(11, 117, 64) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.09043431282043457
+DEBUG:root:WIRE NUMBER:::: 37 OUT OF 100
+DEBUG:root:PIN::::::[(8, 88, 38), (6, 143, 66), 'DATA', ('pin_out_37', 'pin_in_37'), 'default']
+DEBUG:root:A-STAR START::::: (8, 88, 38)(6, 143, 66) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.01954960823059082
+DEBUG:root:WIRE NUMBER:::: 38 OUT OF 100
+DEBUG:root:PIN::::::[(8, 56, 10), (7, 102, 72), 'DATA', ('pin_out_38', 'pin_in_38'), 'default']
+DEBUG:root:A-STAR START::::: (8, 56, 10)(7, 102, 72) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.08759117126464844
+DEBUG:root:WIRE NUMBER:::: 39 OUT OF 100
+DEBUG:root:PIN::::::[(11, 26, 37), (11, 111, 50), 'FAST_CLOCK', ('pin_out_39', 'pin_in_39'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 26, 37)(11, 111, 50) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.03150582313537598
+DEBUG:root:WIRE NUMBER:::: 40 OUT OF 100
+DEBUG:root:PIN::::::[(11, 61, 125), (11, 86, 195), 'FAST_CLOCK', ('pin_out_40', 'pin_in_40'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 61, 125)(11, 86, 195) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.04549455642700195
+DEBUG:root:WIRE NUMBER:::: 41 OUT OF 100
+DEBUG:root:PIN::::::[(8, 100, 37), (9, 173, 17), 'HIGH_SPEED_DATA', ('pin_out_41', 'pin_in_41'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 100, 37)(9, 173, 17) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.012904882431030273
+DEBUG:root:WIRE NUMBER:::: 42 OUT OF 100
+DEBUG:root:PIN::::::[(11, 86, 121), (10, 14, 26), 'FAST_CLOCK', ('pin_out_42', 'pin_in_42'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 86, 121)(10, 14, 26) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.10407304763793945
+DEBUG:root:WIRE NUMBER:::: 43 OUT OF 100
+DEBUG:root:PIN::::::[(8, 133, 100), (8, 23, 90), 'HIGH_SPEED_DATA', ('pin_out_43', 'pin_in_43'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 133, 100)(8, 23, 90) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.001039266586303711
+DEBUG:root:WIRE NUMBER:::: 44 OUT OF 100
+DEBUG:root:PIN::::::[(9, 46, 138), (8, 117, 72), 'HIGH_SPEED_DATA', ('pin_out_44', 'pin_in_44'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 46, 138)(8, 117, 72) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.06908321380615234
+DEBUG:root:WIRE NUMBER:::: 45 OUT OF 100
+DEBUG:root:PIN::::::[(11, 21, 40), (11, 119, 174), 'FAST_CLOCK', ('pin_out_45', 'pin_in_45'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 21, 40)(11, 119, 174) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.22646737098693848
+DEBUG:root:WIRE NUMBER:::: 46 OUT OF 100
+DEBUG:root:PIN::::::[(7, 102, 60), (7, 113, 93), 'CLOCK', ('pin_out_46', 'pin_in_46'), 'default']
+DEBUG:root:A-STAR START::::: (7, 102, 60)(7, 113, 93) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.007530689239501953
+DEBUG:root:WIRE NUMBER:::: 47 OUT OF 100
+DEBUG:root:PIN::::::[(9, 38, 159), (9, 108, 26), 'HIGH_SPEED_DATA', ('pin_out_47', 'pin_in_47'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 38, 159)(9, 108, 26) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.1510612964630127
+DEBUG:root:WIRE NUMBER:::: 48 OUT OF 100
+DEBUG:root:PIN::::::[(10, 0, 46), (10, 102, 30), 'FAST_CLOCK', ('pin_out_48', 'pin_in_48'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (10, 0, 46)(10, 102, 30) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.008725881576538086
+DEBUG:root:WIRE NUMBER:::: 49 OUT OF 100
+DEBUG:root:PIN::::::[(9, 146, 178), (8, 169, 7), 'HIGH_SPEED_DATA', ('pin_out_49', 'pin_in_49'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 146, 178)(8, 169, 7) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0264585018157959
+DEBUG:root:WIRE NUMBER:::: 50 OUT OF 100
+DEBUG:root:PIN::::::[(7, 25, 106), (8, 86, 1), 'CLOCK', ('pin_out_50', 'pin_in_50'), 'default']
+DEBUG:root:A-STAR START::::: (7, 25, 106)(8, 86, 1) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.0615696907043457
+DEBUG:root:WIRE NUMBER:::: 51 OUT OF 100
+DEBUG:root:PIN::::::[(6, 119, 142), (7, 69, 190), 'DATA', ('pin_out_51', 'pin_in_51'), 'default']
+DEBUG:root:A-STAR START::::: (6, 119, 142)(7, 69, 190) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.001016855239868164
+DEBUG:root:WIRE NUMBER:::: 52 OUT OF 100
+DEBUG:root:PIN::::::[(8, 146, 35), (7, 4, 55), 'DATA', ('pin_out_52', 'pin_in_52'), 'default']
+DEBUG:root:A-STAR START::::: (8, 146, 35)(7, 4, 55) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.023566722869873047
+DEBUG:root:WIRE NUMBER:::: 53 OUT OF 100
+DEBUG:root:PIN::::::[(8, 73, 135), (9, 180, 157), 'HIGH_SPEED_DATA', ('pin_out_53', 'pin_in_53'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 73, 135)(9, 180, 157) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.020545482635498047
+DEBUG:root:WIRE NUMBER:::: 54 OUT OF 100
+DEBUG:root:PIN::::::[(7, 17, 9), (8, 125, 118), 'DATA', ('pin_out_54', 'pin_in_54'), 'default']
+DEBUG:root:A-STAR START::::: (7, 17, 9)(8, 125, 118) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.08032679557800293
+DEBUG:root:WIRE NUMBER:::: 55 OUT OF 100
+DEBUG:root:PIN::::::[(6, 129, 55), (8, 160, 67), 'DATA', ('pin_out_55', 'pin_in_55'), 'default']
+DEBUG:root:A-STAR START::::: (6, 129, 55)(8, 160, 67) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0032508373260498047
+DEBUG:root:WIRE NUMBER:::: 56 OUT OF 100
+DEBUG:root:PIN::::::[(8, 146, 182), (8, 31, 56), 'HIGH_SPEED_DATA', ('pin_out_56', 'pin_in_56'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 146, 182)(8, 31, 56) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.002827882766723633
+DEBUG:root:WIRE NUMBER:::: 57 OUT OF 100
+DEBUG:root:PIN::::::[(9, 19, 35), (9, 7, 68), 'HIGH_SPEED_DATA', ('pin_out_57', 'pin_in_57'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 19, 35)(9, 7, 68) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.003324270248413086
+DEBUG:root:WIRE NUMBER:::: 58 OUT OF 100
+DEBUG:root:PIN::::::[(8, 139, 118), (9, 29, 39), 'HIGH_SPEED_DATA', ('pin_out_58', 'pin_in_58'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 139, 118)(9, 29, 39) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0010378360748291016
+DEBUG:root:WIRE NUMBER:::: 59 OUT OF 100
+DEBUG:root:PIN::::::[(8, 138, 2), (9, 165, 122), 'HIGH_SPEED_DATA', ('pin_out_59', 'pin_in_59'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 138, 2)(9, 165, 122) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.04343366622924805
+DEBUG:root:WIRE NUMBER:::: 60 OUT OF 100
+DEBUG:root:PIN::::::[(8, 52, 85), (8, 78, 30), 'HIGH_SPEED_DATA', ('pin_out_60', 'pin_in_60'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 52, 85)(8, 78, 30) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.016231060028076172
+DEBUG:root:WIRE NUMBER:::: 61 OUT OF 100
+DEBUG:root:PIN::::::[(7, 164, 138), (9, 159, 108), 'CLOCK', ('pin_out_61', 'pin_in_61'), 'default']
+DEBUG:root:A-STAR START::::: (7, 164, 138)(9, 159, 108) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.002034902572631836
+DEBUG:root:WIRE NUMBER:::: 62 OUT OF 100
+DEBUG:root:PIN::::::[(9, 142, 118), (8, 113, 150), 'CLOCK', ('pin_out_62', 'pin_in_62'), 'default']
+DEBUG:root:A-STAR START::::: (9, 142, 118)(8, 113, 150) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.010938167572021484
+DEBUG:root:WIRE NUMBER:::: 63 OUT OF 100
+DEBUG:root:PIN::::::[(9, 149, 27), (9, 11, 166), 'HIGH_SPEED_DATA', ('pin_out_63', 'pin_in_63'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 149, 27)(9, 11, 166) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.2510240077972412
+DEBUG:root:WIRE NUMBER:::: 64 OUT OF 100
+DEBUG:root:PIN::::::[(9, 73, 183), (9, 65, 24), 'HIGH_SPEED_DATA', ('pin_out_64', 'pin_in_64'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 73, 183)(9, 65, 24) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.007987737655639648
+DEBUG:root:WIRE NUMBER:::: 65 OUT OF 100
+DEBUG:root:PIN::::::[(9, 89, 124), (9, 99, 163), 'HIGH_SPEED_DATA', ('pin_out_65', 'pin_in_65'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 89, 124)(9, 99, 163) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.003178834915161133
+DEBUG:root:WIRE NUMBER:::: 66 OUT OF 100
+DEBUG:root:PIN::::::[(8, 137, 106), (8, 35, 61), 'HIGH_SPEED_DATA', ('pin_out_66', 'pin_in_66'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 137, 106)(8, 35, 61) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0009992122650146484
+DEBUG:root:WIRE NUMBER:::: 67 OUT OF 100
+DEBUG:root:PIN::::::[(11, 14, 0), (10, 118, 158), 'FAST_CLOCK', ('pin_out_67', 'pin_in_67'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 14, 0)(10, 118, 158) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.15205717086791992
+DEBUG:root:WIRE NUMBER:::: 68 OUT OF 100
+DEBUG:root:PIN::::::[(6, 93, 118), (8, 66, 88), 'DATA', ('pin_out_68', 'pin_in_68'), 'default']
+DEBUG:root:A-STAR START::::: (6, 93, 118)(8, 66, 88) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.004131317138671875
+DEBUG:root:WIRE NUMBER:::: 69 OUT OF 100
+DEBUG:root:PIN::::::[(8, 85, 130), (7, 107, 60), 'CLOCK', ('pin_out_69', 'pin_in_69'), 'default']
+DEBUG:root:A-STAR START::::: (8, 85, 130)(7, 107, 60) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.010260581970214844
+DEBUG:root:WIRE NUMBER:::: 70 OUT OF 100
+DEBUG:root:PIN::::::[(6, 122, 16), (7, 178, 95), 'DATA', ('pin_out_70', 'pin_in_70'), 'default']
+DEBUG:root:A-STAR START::::: (6, 122, 16)(7, 178, 95) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0747842788696289
+DEBUG:root:WIRE NUMBER:::: 71 OUT OF 100
+DEBUG:root:PIN::::::[(8, 79, 143), (9, 41, 17), 'CLOCK', ('pin_out_71', 'pin_in_71'), 'default']
+DEBUG:root:A-STAR START::::: (8, 79, 143)(9, 41, 17) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.0034415721893310547
+DEBUG:root:WIRE NUMBER:::: 72 OUT OF 100
+DEBUG:root:PIN::::::[(6, 13, 27), (8, 9, 114), 'DATA', ('pin_out_72', 'pin_in_72'), 'default']
+DEBUG:root:A-STAR START::::: (6, 13, 27)(8, 9, 114) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.004500150680541992
+DEBUG:root:WIRE NUMBER:::: 73 OUT OF 100
+DEBUG:root:PIN::::::[(8, 146, 77), (8, 78, 154), 'CLOCK', ('pin_out_73', 'pin_in_73'), 'default']
+DEBUG:root:A-STAR START::::: (8, 146, 77)(8, 78, 154) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.07191205024719238
+DEBUG:root:WIRE NUMBER:::: 74 OUT OF 100
+DEBUG:root:PIN::::::[(7, 114, 108), (8, 85, 106), 'DATA', ('pin_out_74', 'pin_in_74'), 'default']
+DEBUG:root:A-STAR START::::: (7, 114, 108)(8, 85, 106) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0
+DEBUG:root:WIRE NUMBER:::: 75 OUT OF 100
+DEBUG:root:PIN::::::[(8, 33, 25), (7, 144, 102), 'DATA', ('pin_out_75', 'pin_in_75'), 'default']
+DEBUG:root:A-STAR START::::: (8, 33, 25)(7, 144, 102) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.07784247398376465
+DEBUG:root:WIRE NUMBER:::: 76 OUT OF 100
+DEBUG:root:PIN::::::[(9, 98, 123), (9, 139, 85), 'CLOCK', ('pin_out_76', 'pin_in_76'), 'default']
+DEBUG:root:A-STAR START::::: (9, 98, 123)(9, 139, 85) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.02244877815246582
+DEBUG:root:WIRE NUMBER:::: 77 OUT OF 100
+DEBUG:root:PIN::::::[(7, 40, 146), (8, 23, 63), 'DATA', ('pin_out_77', 'pin_in_77'), 'default']
+DEBUG:root:A-STAR START::::: (7, 40, 146)(8, 23, 63) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0009996891021728516
+DEBUG:root:WIRE NUMBER:::: 78 OUT OF 100
+DEBUG:root:PIN::::::[(8, 177, 89), (9, 12, 60), 'HIGH_SPEED_DATA', ('pin_out_78', 'pin_in_78'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 177, 89)(9, 12, 60) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0020008087158203125
+DEBUG:root:WIRE NUMBER:::: 79 OUT OF 100
+DEBUG:root:PIN::::::[(9, 163, 28), (8, 16, 3), 'CLOCK', ('pin_out_79', 'pin_in_79'), 'default']
+DEBUG:root:A-STAR START::::: (9, 163, 28)(8, 16, 3) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.08095932006835938
+DEBUG:root:WIRE NUMBER:::: 80 OUT OF 100
+DEBUG:root:PIN::::::[(11, 84, 129), (11, 122, 63), 'FAST_CLOCK', ('pin_out_80', 'pin_in_80'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 84, 129)(11, 122, 63) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.04511666297912598
+DEBUG:root:WIRE NUMBER:::: 81 OUT OF 100
+DEBUG:root:PIN::::::[(9, 145, 142), (9, 15, 21), 'CLOCK', ('pin_out_81', 'pin_in_81'), 'default']
+DEBUG:root:A-STAR START::::: (9, 145, 142)(9, 15, 21) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.15540385246276855
+DEBUG:root:WIRE NUMBER:::: 82 OUT OF 100
+DEBUG:root:PIN::::::[(7, 92, 98), (9, 147, 48), 'CLOCK', ('pin_out_82', 'pin_in_82'), 'default']
+DEBUG:root:A-STAR START::::: (7, 92, 98)(9, 147, 48) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.055495500564575195
+DEBUG:root:WIRE NUMBER:::: 83 OUT OF 100
+DEBUG:root:PIN::::::[(11, 22, 60), (11, 95, 176), 'FAST_CLOCK', ('pin_out_83', 'pin_in_83'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 22, 60)(11, 95, 176) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.09069561958312988
+DEBUG:root:WIRE NUMBER:::: 84 OUT OF 100
+DEBUG:root:PIN::::::[(8, 153, 77), (9, 0, 61), 'CLOCK', ('pin_out_84', 'pin_in_84'), 'default']
+DEBUG:root:A-STAR START::::: (8, 153, 77)(9, 0, 61) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.0009872913360595703
+DEBUG:root:WIRE NUMBER:::: 85 OUT OF 100
+DEBUG:root:PIN::::::[(7, 37, 43), (9, 80, 14), 'CLOCK', ('pin_out_85', 'pin_in_85'), 'default']
+DEBUG:root:A-STAR START::::: (7, 37, 43)(9, 80, 14) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.017514467239379883
+DEBUG:root:WIRE NUMBER:::: 86 OUT OF 100
+DEBUG:root:PIN::::::[(10, 112, 66), (10, 182, 133), 'FAST_CLOCK', ('pin_out_86', 'pin_in_86'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (10, 112, 66)(10, 182, 133) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.07344269752502441
+DEBUG:root:WIRE NUMBER:::: 87 OUT OF 100
+DEBUG:root:PIN::::::[(6, 26, 146), (7, 10, 78), 'DATA', ('pin_out_87', 'pin_in_87'), 'default']
+DEBUG:root:A-STAR START::::: (6, 26, 146)(7, 10, 78) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.001047372817993164
+DEBUG:root:WIRE NUMBER:::: 88 OUT OF 100
+DEBUG:root:PIN::::::[(11, 54, 9), (11, 124, 95), 'FAST_CLOCK', ('pin_out_88', 'pin_in_88'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 54, 9)(11, 124, 95) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.11557483673095703
+DEBUG:root:WIRE NUMBER:::: 89 OUT OF 100
+DEBUG:root:PIN::::::[(7, 172, 14), (8, 94, 28), 'DATA', ('pin_out_89', 'pin_in_89'), 'default']
+DEBUG:root:A-STAR START::::: (7, 172, 14)(8, 94, 28) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.006561994552612305
+DEBUG:root:WIRE NUMBER:::: 90 OUT OF 100
+DEBUG:root:PIN::::::[(9, 56, 149), (9, 15, 4), 'HIGH_SPEED_DATA', ('pin_out_90', 'pin_in_90'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 56, 149)(9, 15, 4) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.053817033767700195
+DEBUG:root:WIRE NUMBER:::: 91 OUT OF 100
+DEBUG:root:PIN::::::[(9, 37, 117), (9, 39, 43), 'HIGH_SPEED_DATA', ('pin_out_91', 'pin_in_91'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 37, 117)(9, 39, 43) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0027306079864501953
+DEBUG:root:WIRE NUMBER:::: 92 OUT OF 100
+DEBUG:root:PIN::::::[(9, 59, 163), (9, 136, 19), 'HIGH_SPEED_DATA', ('pin_out_92', 'pin_in_92'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 59, 163)(9, 136, 19) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.2172987461090088
+DEBUG:root:WIRE NUMBER:::: 93 OUT OF 100
+DEBUG:root:PIN::::::[(7, 177, 79), (9, 58, 38), 'CLOCK', ('pin_out_93', 'pin_in_93'), 'default']
+DEBUG:root:A-STAR START::::: (7, 177, 79)(9, 58, 38) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.09533166885375977
+DEBUG:root:WIRE NUMBER:::: 94 OUT OF 100
+DEBUG:root:PIN::::::[(11, 128, 128), (11, 160, 61), 'FAST_CLOCK', ('pin_out_94', 'pin_in_94'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 128, 128)(11, 160, 61) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.024695396423339844
+DEBUG:root:WIRE NUMBER:::: 95 OUT OF 100
+DEBUG:root:PIN::::::[(10, 68, 54), (10, 133, 53), 'FAST_CLOCK', ('pin_out_95', 'pin_in_95'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (10, 68, 54)(10, 133, 53) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.0010013580322265625
+DEBUG:root:WIRE NUMBER:::: 96 OUT OF 100
+DEBUG:root:PIN::::::[(11, 73, 168), (11, 166, 21), 'FAST_CLOCK', ('pin_out_96', 'pin_in_96'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 73, 168)(11, 166, 21) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.18627691268920898
+DEBUG:root:WIRE NUMBER:::: 97 OUT OF 100
+DEBUG:root:PIN::::::[(6, 159, 80), (7, 10, 121), 'DATA', ('pin_out_97', 'pin_in_97'), 'default']
+DEBUG:root:A-STAR START::::: (6, 159, 80)(7, 10, 121) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.001035928726196289
+DEBUG:root:WIRE NUMBER:::: 98 OUT OF 100
+DEBUG:root:PIN::::::[(9, 102, 24), (9, 105, 38), 'HIGH_SPEED_DATA', ('pin_out_98', 'pin_in_98'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 102, 24)(9, 105, 38) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0
+DEBUG:root:WIRE NUMBER:::: 99 OUT OF 100
+DEBUG:root:PIN::::::[(8, 24, 108), (9, 128, 145), 'HIGH_SPEED_DATA', ('pin_out_99', 'pin_in_99'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 24, 108)(9, 128, 145) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.020885229110717773
+DEBUG:root:WIRE NUMBER:::: 100 OUT OF 100
+DEBUG:root:PIN::::::[(8, 73, 110), (8, 78, 33), 'CLOCK', ('pin_out_100', 'pin_in_100'), 'default']
+DEBUG:root:A-STAR START::::: (8, 73, 110)(8, 78, 33) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.0010361671447753906

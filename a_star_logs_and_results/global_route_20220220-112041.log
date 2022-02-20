@@ -1,0 +1,611 @@
+DEBUG:root:Los gehts!
+DEBUG:root:WIRE NUMBER:::: 1 OUT OF 100
+DEBUG:root:PIN::::::[(8, 66, 24), (8, 0, 31), 'DATA', ('pin_out_1', 'pin_in_1'), 'default']
+DEBUG:root:A-STAR START::::: (8, 66, 24)(8, 0, 31) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.005832195281982422
+DEBUG:root:WIRE NUMBER:::: 2 OUT OF 100
+DEBUG:root:PIN::::::[(9, 0, 31), (9, 66, 21), 'HIGH_SPEED_DATA', ('pin_out_2', 'pin_in_2'), 'default']
+DEBUG:root:A-STAR START::::: (9, 0, 31)(9, 66, 21) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.011183023452758789
+DEBUG:root:WIRE NUMBER:::: 3 OUT OF 100
+DEBUG:root:PIN::::::[(10, 66, 21), (10, 66, 21), 'FAST_CLOCK', ('pin_out_3', 'pin_in_3'), 'default']
+DEBUG:root:A-STAR START::::: (10, 66, 21)(10, 66, 21) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.0
+DEBUG:root:WIRE NUMBER:::: 4 OUT OF 100
+DEBUG:root:PIN::::::[(8, 29, 7), (9, 31, 91), 'CLOCK', ('pin_out_4', 'pin_in_4'), 'default']
+DEBUG:root:A-STAR START::::: (8, 29, 7)(9, 31, 91) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.0019965171813964844
+DEBUG:root:WIRE NUMBER:::: 5 OUT OF 100
+DEBUG:root:PIN::::::[(9, 1, 28), (9, 75, 92), 'CLOCK', ('pin_out_5', 'pin_in_5'), 'default']
+DEBUG:root:A-STAR START::::: (9, 1, 28)(9, 75, 92) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.13269329071044922
+DEBUG:root:WIRE NUMBER:::: 6 OUT OF 100
+DEBUG:root:PIN::::::[(11, 25, 36), (11, 59, 20), 'FAST_CLOCK', ('pin_out_6', 'pin_in_6'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 25, 36)(11, 59, 20) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.011531591415405273
+DEBUG:root:WIRE NUMBER:::: 7 OUT OF 100
+DEBUG:root:PIN::::::[(11, 77, 33), (11, 8, 23), 'FAST_CLOCK', ('pin_out_7', 'pin_in_7'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 77, 33)(11, 8, 23) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.002034425735473633
+DEBUG:root:WIRE NUMBER:::: 8 OUT OF 100
+DEBUG:root:PIN::::::[(8, 25, 62), (9, 32, 44), 'HIGH_SPEED_DATA', ('pin_out_8', 'pin_in_8'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 25, 62)(9, 32, 44) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.004717588424682617
+DEBUG:root:WIRE NUMBER:::: 9 OUT OF 100
+DEBUG:root:PIN::::::[(6, 1, 57), (7, 72, 29), 'DATA', ('pin_out_9', 'pin_in_9'), 'default']
+DEBUG:root:A-STAR START::::: (6, 1, 57)(7, 72, 29) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0338282585144043
+DEBUG:root:WIRE NUMBER:::: 10 OUT OF 100
+DEBUG:root:PIN::::::[(11, 91, 14), (11, 50, 86), 'FAST_CLOCK', ('pin_out_10', 'pin_in_10'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 91, 14)(11, 50, 86) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.03529787063598633
+DEBUG:root:WIRE NUMBER:::: 11 OUT OF 100
+DEBUG:root:PIN::::::[(8, 57, 89), (6, 1, 70), 'DATA', ('pin_out_11', 'pin_in_11'), 'default']
+DEBUG:root:A-STAR START::::: (8, 57, 89)(6, 1, 70) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.01419687271118164
+DEBUG:root:WIRE NUMBER:::: 12 OUT OF 100
+DEBUG:root:PIN::::::[(10, 73, 8), (10, 39, 28), 'FAST_CLOCK', ('pin_out_12', 'pin_in_12'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (10, 73, 8)(10, 39, 28) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.0009970664978027344
+DEBUG:root:WIRE NUMBER:::: 13 OUT OF 100
+DEBUG:root:PIN::::::[(8, 51, 69), (6, 34, 11), 'DATA', ('pin_out_13', 'pin_in_13'), 'default']
+DEBUG:root:A-STAR START::::: (8, 51, 69)(6, 34, 11) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.020430564880371094
+DEBUG:root:WIRE NUMBER:::: 14 OUT OF 100
+DEBUG:root:PIN::::::[(8, 84, 5), (8, 35, 88), 'HIGH_SPEED_DATA', ('pin_out_14', 'pin_in_14'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 84, 5)(8, 35, 88) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.004094600677490234
+DEBUG:root:WIRE NUMBER:::: 15 OUT OF 100
+DEBUG:root:PIN::::::[(8, 77, 0), (7, 65, 77), 'DATA', ('pin_out_15', 'pin_in_15'), 'default']
+DEBUG:root:A-STAR START::::: (8, 77, 0)(7, 65, 77) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.03810310363769531
+DEBUG:root:WIRE NUMBER:::: 16 OUT OF 100
+DEBUG:root:PIN::::::[(9, 42, 36), (9, 30, 96), 'CLOCK', ('pin_out_16', 'pin_in_16'), 'default']
+DEBUG:root:A-STAR START::::: (9, 42, 36)(9, 30, 96) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.022789955139160156
+DEBUG:root:WIRE NUMBER:::: 17 OUT OF 100
+DEBUG:root:PIN::::::[(7, 28, 47), (9, 0, 28), 'CLOCK', ('pin_out_17', 'pin_in_17'), 'default']
+DEBUG:root:A-STAR START::::: (7, 28, 47)(9, 0, 28) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.01213836669921875
+DEBUG:root:WIRE NUMBER:::: 18 OUT OF 100
+DEBUG:root:PIN::::::[(9, 54, 47), (9, 34, 20), 'HIGH_SPEED_DATA', ('pin_out_18', 'pin_in_18'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 54, 47)(9, 34, 20) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.015481710433959961
+DEBUG:root:WIRE NUMBER:::: 19 OUT OF 100
+DEBUG:root:PIN::::::[(10, 30, 22), (11, 48, 16), 'FAST_CLOCK', ('pin_out_19', 'pin_in_19'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (10, 30, 22)(11, 48, 16) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.005684852600097656
+DEBUG:root:WIRE NUMBER:::: 20 OUT OF 100
+DEBUG:root:PIN::::::[(9, 78, 44), (9, 72, 35), 'CLOCK', ('pin_out_20', 'pin_in_20'), 'default']
+DEBUG:root:A-STAR START::::: (9, 78, 44)(9, 72, 35) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.001661539077758789
+DEBUG:root:WIRE NUMBER:::: 21 OUT OF 100
+DEBUG:root:PIN::::::[(7, 63, 36), (9, 88, 58), 'CLOCK', ('pin_out_21', 'pin_in_21'), 'default']
+DEBUG:root:A-STAR START::::: (7, 63, 36)(9, 88, 58) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.02382826805114746
+DEBUG:root:WIRE NUMBER:::: 22 OUT OF 100
+DEBUG:root:PIN::::::[(8, 18, 82), (9, 70, 87), 'CLOCK', ('pin_out_22', 'pin_in_22'), 'default']
+DEBUG:root:A-STAR START::::: (8, 18, 82)(9, 70, 87) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.0031201839447021484
+DEBUG:root:WIRE NUMBER:::: 23 OUT OF 100
+DEBUG:root:PIN::::::[(8, 6, 53), (7, 11, 8), 'DATA', ('pin_out_23', 'pin_in_23'), 'default']
+DEBUG:root:A-STAR START::::: (8, 6, 53)(7, 11, 8) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.003651857376098633
+DEBUG:root:WIRE NUMBER:::: 24 OUT OF 100
+DEBUG:root:PIN::::::[(9, 40, 30), (8, 87, 85), 'CLOCK', ('pin_out_24', 'pin_in_24'), 'default']
+DEBUG:root:A-STAR START::::: (9, 40, 30)(8, 87, 85) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.04312396049499512
+DEBUG:root:WIRE NUMBER:::: 25 OUT OF 100
+DEBUG:root:PIN::::::[(10, 74, 37), (10, 76, 60), 'FAST_CLOCK', ('pin_out_25', 'pin_in_25'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (10, 74, 37)(10, 76, 60) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.0009984970092773438
+DEBUG:root:WIRE NUMBER:::: 26 OUT OF 100
+DEBUG:root:PIN::::::[(8, 37, 29), (8, 51, 84), 'HIGH_SPEED_DATA', ('pin_out_26', 'pin_in_26'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 37, 29)(8, 51, 84) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.012978792190551758
+DEBUG:root:WIRE NUMBER:::: 27 OUT OF 100
+DEBUG:root:PIN::::::[(8, 87, 0), (9, 53, 46), 'CLOCK', ('pin_out_27', 'pin_in_27'), 'default']
+DEBUG:root:A-STAR START::::: (8, 87, 0)(9, 53, 46) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.0019989013671875
+DEBUG:root:WIRE NUMBER:::: 28 OUT OF 100
+DEBUG:root:PIN::::::[(7, 63, 35), (9, 6, 28), 'CLOCK', ('pin_out_28', 'pin_in_28'), 'default']
+DEBUG:root:A-STAR START::::: (7, 63, 35)(9, 6, 28) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.007980585098266602
+DEBUG:root:WIRE NUMBER:::: 29 OUT OF 100
+DEBUG:root:PIN::::::[(9, 64, 94), (8, 53, 0), 'HIGH_SPEED_DATA', ('pin_out_29', 'pin_in_29'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 64, 94)(8, 53, 0) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.025150060653686523
+DEBUG:root:WIRE NUMBER:::: 30 OUT OF 100
+DEBUG:root:PIN::::::[(9, 39, 42), (7, 88, 47), 'CLOCK', ('pin_out_30', 'pin_in_30'), 'default']
+DEBUG:root:A-STAR START::::: (9, 39, 42)(7, 88, 47) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.00855398178100586
+DEBUG:root:WIRE NUMBER:::: 31 OUT OF 100
+DEBUG:root:PIN::::::[(11, 62, 9), (11, 55, 7), 'FAST_CLOCK', ('pin_out_31', 'pin_in_31'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 62, 9)(11, 55, 7) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.0009946823120117188
+DEBUG:root:WIRE NUMBER:::: 32 OUT OF 100
+DEBUG:root:PIN::::::[(8, 51, 56), (8, 60, 53), 'DATA', ('pin_out_32', 'pin_in_32'), 'default']
+DEBUG:root:A-STAR START::::: (8, 51, 56)(8, 60, 53) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0021042823791503906
+DEBUG:root:WIRE NUMBER:::: 33 OUT OF 100
+DEBUG:root:PIN::::::[(8, 17, 27), (8, 91, 66), 'CLOCK', ('pin_out_33', 'pin_in_33'), 'default']
+DEBUG:root:A-STAR START::::: (8, 17, 27)(8, 91, 66) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.09465837478637695
+DEBUG:root:WIRE NUMBER:::: 34 OUT OF 100
+DEBUG:root:PIN::::::[(7, 23, 15), (6, 10, 6), 'DATA', ('pin_out_34', 'pin_in_34'), 'default']
+DEBUG:root:A-STAR START::::: (7, 23, 15)(6, 10, 6) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0009984970092773438
+DEBUG:root:WIRE NUMBER:::: 35 OUT OF 100
+DEBUG:root:PIN::::::[(11, 5, 22), (11, 8, 47), 'FAST_CLOCK', ('pin_out_35', 'pin_in_35'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 5, 22)(11, 8, 47) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.0010023117065429688
+DEBUG:root:WIRE NUMBER:::: 36 OUT OF 100
+DEBUG:root:PIN::::::[(10, 17, 78), (11, 58, 32), 'FAST_CLOCK', ('pin_out_36', 'pin_in_36'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (10, 17, 78)(11, 58, 32) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.0166471004486084
+DEBUG:root:WIRE NUMBER:::: 37 OUT OF 100
+DEBUG:root:PIN::::::[(8, 44, 19), (6, 71, 33), 'DATA', ('pin_out_37', 'pin_in_37'), 'default']
+DEBUG:root:A-STAR START::::: (8, 44, 19)(6, 71, 33) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0030002593994140625
+DEBUG:root:WIRE NUMBER:::: 38 OUT OF 100
+DEBUG:root:PIN::::::[(8, 28, 5), (7, 51, 36), 'DATA', ('pin_out_38', 'pin_in_38'), 'default']
+DEBUG:root:A-STAR START::::: (8, 28, 5)(7, 51, 36) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.00975179672241211
+DEBUG:root:WIRE NUMBER:::: 39 OUT OF 100
+DEBUG:root:PIN::::::[(11, 13, 18), (11, 55, 25), 'FAST_CLOCK', ('pin_out_39', 'pin_in_39'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 13, 18)(11, 55, 25) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.0019979476928710938
+DEBUG:root:WIRE NUMBER:::: 40 OUT OF 100
+DEBUG:root:PIN::::::[(11, 30, 62), (11, 43, 97), 'FAST_CLOCK', ('pin_out_40', 'pin_in_40'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 30, 62)(11, 43, 97) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.012740612030029297
+DEBUG:root:WIRE NUMBER:::: 41 OUT OF 100
+DEBUG:root:PIN::::::[(8, 50, 18), (9, 86, 8), 'HIGH_SPEED_DATA', ('pin_out_41', 'pin_in_41'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 50, 18)(9, 86, 8) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.004822492599487305
+DEBUG:root:WIRE NUMBER:::: 42 OUT OF 100
+DEBUG:root:PIN::::::[(11, 43, 60), (10, 7, 13), 'FAST_CLOCK', ('pin_out_42', 'pin_in_42'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 43, 60)(10, 7, 13) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.014852762222290039
+DEBUG:root:WIRE NUMBER:::: 43 OUT OF 100
+DEBUG:root:PIN::::::[(8, 66, 50), (8, 11, 45), 'HIGH_SPEED_DATA', ('pin_out_43', 'pin_in_43'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 66, 50)(8, 11, 45) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0
+DEBUG:root:WIRE NUMBER:::: 44 OUT OF 100
+DEBUG:root:PIN::::::[(9, 23, 69), (8, 58, 36), 'HIGH_SPEED_DATA', ('pin_out_44', 'pin_in_44'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 23, 69)(8, 58, 36) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.010368108749389648
+DEBUG:root:WIRE NUMBER:::: 45 OUT OF 100
+DEBUG:root:PIN::::::[(11, 10, 20), (11, 59, 87), 'FAST_CLOCK', ('pin_out_45', 'pin_in_45'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 10, 20)(11, 59, 87) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.054381370544433594
+DEBUG:root:WIRE NUMBER:::: 46 OUT OF 100
+DEBUG:root:PIN::::::[(7, 51, 30), (7, 56, 46), 'CLOCK', ('pin_out_46', 'pin_in_46'), 'default']
+DEBUG:root:A-STAR START::::: (7, 51, 30)(7, 56, 46) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.0020024776458740234
+DEBUG:root:WIRE NUMBER:::: 47 OUT OF 100
+DEBUG:root:PIN::::::[(9, 19, 79), (9, 54, 13), 'HIGH_SPEED_DATA', ('pin_out_47', 'pin_in_47'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 19, 79)(9, 54, 13) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.041274070739746094
+DEBUG:root:WIRE NUMBER:::: 48 OUT OF 100
+DEBUG:root:PIN::::::[(10, 0, 23), (10, 51, 15), 'FAST_CLOCK', ('pin_out_48', 'pin_in_48'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (10, 0, 23)(10, 51, 15) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.0020012855529785156
+DEBUG:root:WIRE NUMBER:::: 49 OUT OF 100
+DEBUG:root:PIN::::::[(9, 73, 89), (8, 84, 3), 'HIGH_SPEED_DATA', ('pin_out_49', 'pin_in_49'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 73, 89)(8, 84, 3) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.014528036117553711
+DEBUG:root:WIRE NUMBER:::: 50 OUT OF 100
+DEBUG:root:PIN::::::[(7, 12, 53), (8, 43, 0), 'CLOCK', ('pin_out_50', 'pin_in_50'), 'default']
+DEBUG:root:A-STAR START::::: (7, 12, 53)(8, 43, 0) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.01636505126953125
+DEBUG:root:WIRE NUMBER:::: 51 OUT OF 100
+DEBUG:root:PIN::::::[(6, 59, 71), (7, 34, 95), 'DATA', ('pin_out_51', 'pin_in_51'), 'default']
+DEBUG:root:A-STAR START::::: (6, 59, 71)(7, 34, 95) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0009992122650146484
+DEBUG:root:WIRE NUMBER:::: 52 OUT OF 100
+DEBUG:root:PIN::::::[(8, 73, 17), (7, 2, 27), 'DATA', ('pin_out_52', 'pin_in_52'), 'default']
+DEBUG:root:A-STAR START::::: (8, 73, 17)(7, 2, 27) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.00946664810180664
+DEBUG:root:WIRE NUMBER:::: 53 OUT OF 100
+DEBUG:root:PIN::::::[(8, 36, 67), (9, 90, 78), 'HIGH_SPEED_DATA', ('pin_out_53', 'pin_in_53'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 36, 67)(9, 90, 78) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0020003318786621094
+DEBUG:root:WIRE NUMBER:::: 54 OUT OF 100
+DEBUG:root:PIN::::::[(7, 8, 4), (8, 62, 59), 'DATA', ('pin_out_54', 'pin_in_54'), 'default']
+DEBUG:root:A-STAR START::::: (7, 8, 4)(8, 62, 59) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.024442195892333984
+DEBUG:root:WIRE NUMBER:::: 55 OUT OF 100
+DEBUG:root:PIN::::::[(6, 64, 27), (8, 80, 33), 'DATA', ('pin_out_55', 'pin_in_55'), 'default']
+DEBUG:root:A-STAR START::::: (6, 64, 27)(8, 80, 33) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0009996891021728516
+DEBUG:root:WIRE NUMBER:::: 56 OUT OF 100
+DEBUG:root:PIN::::::[(8, 73, 91), (8, 15, 28), 'HIGH_SPEED_DATA', ('pin_out_56', 'pin_in_56'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 73, 91)(8, 15, 28) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0019986629486083984
+DEBUG:root:WIRE NUMBER:::: 57 OUT OF 100
+DEBUG:root:PIN::::::[(9, 9, 17), (9, 3, 34), 'HIGH_SPEED_DATA', ('pin_out_57', 'pin_in_57'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 9, 17)(9, 3, 34) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0034475326538085938
+DEBUG:root:WIRE NUMBER:::: 58 OUT OF 100
+DEBUG:root:PIN::::::[(8, 69, 59), (9, 14, 19), 'HIGH_SPEED_DATA', ('pin_out_58', 'pin_in_58'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 69, 59)(9, 14, 19) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.002081155776977539
+DEBUG:root:WIRE NUMBER:::: 59 OUT OF 100
+DEBUG:root:PIN::::::[(8, 69, 1), (9, 82, 61), 'HIGH_SPEED_DATA', ('pin_out_59', 'pin_in_59'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 69, 1)(9, 82, 61) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.014835834503173828
+DEBUG:root:WIRE NUMBER:::: 60 OUT OF 100
+DEBUG:root:PIN::::::[(8, 26, 42), (8, 39, 15), 'HIGH_SPEED_DATA', ('pin_out_60', 'pin_in_60'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 26, 42)(8, 39, 15) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0068967342376708984
+DEBUG:root:WIRE NUMBER:::: 61 OUT OF 100
+DEBUG:root:PIN::::::[(7, 82, 69), (9, 79, 54), 'CLOCK', ('pin_out_61', 'pin_in_61'), 'default']
+DEBUG:root:A-STAR START::::: (7, 82, 69)(9, 79, 54) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.0009970664978027344
+DEBUG:root:WIRE NUMBER:::: 62 OUT OF 100
+DEBUG:root:PIN::::::[(9, 71, 59), (8, 56, 75), 'CLOCK', ('pin_out_62', 'pin_in_62'), 'default']
+DEBUG:root:A-STAR START::::: (9, 71, 59)(8, 56, 75) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.0064411163330078125
+DEBUG:root:WIRE NUMBER:::: 63 OUT OF 100
+DEBUG:root:PIN::::::[(9, 74, 13), (9, 5, 83), 'HIGH_SPEED_DATA', ('pin_out_63', 'pin_in_63'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 74, 13)(9, 5, 83) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.11199760437011719
+DEBUG:root:WIRE NUMBER:::: 64 OUT OF 100
+DEBUG:root:PIN::::::[(9, 36, 91), (9, 32, 12), 'HIGH_SPEED_DATA', ('pin_out_64', 'pin_in_64'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 36, 91)(9, 32, 12) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.008923530578613281
+DEBUG:root:WIRE NUMBER:::: 65 OUT OF 100
+DEBUG:root:PIN::::::[(9, 44, 62), (9, 49, 81), 'HIGH_SPEED_DATA', ('pin_out_65', 'pin_in_65'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 44, 62)(9, 49, 81) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.004327297210693359
+DEBUG:root:WIRE NUMBER:::: 66 OUT OF 100
+DEBUG:root:PIN::::::[(8, 68, 53), (8, 17, 30), 'HIGH_SPEED_DATA', ('pin_out_66', 'pin_in_66'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 68, 53)(8, 17, 30) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0010068416595458984
+DEBUG:root:WIRE NUMBER:::: 67 OUT OF 100
+DEBUG:root:PIN::::::[(11, 7, 0), (10, 59, 79), 'FAST_CLOCK', ('pin_out_67', 'pin_in_67'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 7, 0)(10, 59, 79) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.09510183334350586
+DEBUG:root:WIRE NUMBER:::: 68 OUT OF 100
+DEBUG:root:PIN::::::[(6, 46, 59), (8, 33, 44), 'DATA', ('pin_out_68', 'pin_in_68'), 'default']
+DEBUG:root:A-STAR START::::: (6, 46, 59)(8, 33, 44) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.00472569465637207
+DEBUG:root:WIRE NUMBER:::: 69 OUT OF 100
+DEBUG:root:PIN::::::[(8, 42, 65), (7, 53, 30), 'CLOCK', ('pin_out_69', 'pin_in_69'), 'default']
+DEBUG:root:A-STAR START::::: (8, 42, 65)(7, 53, 30) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.009436845779418945
+DEBUG:root:WIRE NUMBER:::: 70 OUT OF 100
+DEBUG:root:PIN::::::[(6, 61, 8), (7, 89, 47), 'DATA', ('pin_out_70', 'pin_in_70'), 'default']
+DEBUG:root:A-STAR START::::: (6, 61, 8)(7, 89, 47) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.03627634048461914
+DEBUG:root:WIRE NUMBER:::: 71 OUT OF 100
+DEBUG:root:PIN::::::[(8, 39, 71), (9, 20, 8), 'CLOCK', ('pin_out_71', 'pin_in_71'), 'default']
+DEBUG:root:A-STAR START::::: (8, 39, 71)(9, 20, 8) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.0010364055633544922
+DEBUG:root:WIRE NUMBER:::: 72 OUT OF 100
+DEBUG:root:PIN::::::[(6, 6, 13), (8, 4, 57), 'DATA', ('pin_out_72', 'pin_in_72'), 'default']
+DEBUG:root:A-STAR START::::: (6, 6, 13)(8, 4, 57) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.009732246398925781
+DEBUG:root:WIRE NUMBER:::: 73 OUT OF 100
+DEBUG:root:PIN::::::[(8, 73, 38), (8, 39, 77), 'CLOCK', ('pin_out_73', 'pin_in_73'), 'default']
+DEBUG:root:A-STAR START::::: (8, 73, 38)(8, 39, 77) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.05000162124633789
+DEBUG:root:WIRE NUMBER:::: 74 OUT OF 100
+DEBUG:root:PIN::::::[(7, 57, 54), (8, 42, 53), 'DATA', ('pin_out_74', 'pin_in_74'), 'default']
+DEBUG:root:A-STAR START::::: (7, 57, 54)(8, 42, 53) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0019948482513427734
+DEBUG:root:WIRE NUMBER:::: 75 OUT OF 100
+DEBUG:root:PIN::::::[(8, 16, 12), (7, 72, 51), 'DATA', ('pin_out_75', 'pin_in_75'), 'default']
+DEBUG:root:A-STAR START::::: (8, 16, 12)(7, 72, 51) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.08750009536743164
+DEBUG:root:WIRE NUMBER:::: 76 OUT OF 100
+DEBUG:root:PIN::::::[(9, 49, 61), (9, 69, 42), 'CLOCK', ('pin_out_76', 'pin_in_76'), 'default']
+DEBUG:root:A-STAR START::::: (9, 49, 61)(9, 69, 42) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.028678178787231445
+DEBUG:root:WIRE NUMBER:::: 77 OUT OF 100
+DEBUG:root:PIN::::::[(7, 20, 73), (8, 11, 31), 'DATA', ('pin_out_77', 'pin_in_77'), 'default']
+DEBUG:root:A-STAR START::::: (7, 20, 73)(8, 11, 31) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0010001659393310547
+DEBUG:root:WIRE NUMBER:::: 78 OUT OF 100
+DEBUG:root:PIN::::::[(8, 88, 44), (9, 6, 30), 'HIGH_SPEED_DATA', ('pin_out_78', 'pin_in_78'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 88, 44)(9, 6, 30) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0029914379119873047
+DEBUG:root:WIRE NUMBER:::: 79 OUT OF 100
+DEBUG:root:PIN::::::[(9, 81, 14), (8, 8, 1), 'CLOCK', ('pin_out_79', 'pin_in_79'), 'default']
+DEBUG:root:A-STAR START::::: (9, 81, 14)(8, 8, 1) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.026037931442260742
+DEBUG:root:WIRE NUMBER:::: 80 OUT OF 100
+DEBUG:root:PIN::::::[(11, 42, 64), (11, 61, 31), 'FAST_CLOCK', ('pin_out_80', 'pin_in_80'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 42, 64)(11, 61, 31) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.023816585540771484
+DEBUG:root:WIRE NUMBER:::: 81 OUT OF 100
+DEBUG:root:PIN::::::[(9, 72, 71), (9, 7, 10), 'CLOCK', ('pin_out_81', 'pin_in_81'), 'default']
+DEBUG:root:A-STAR START::::: (9, 72, 71)(9, 7, 10) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.1250925064086914
+DEBUG:root:WIRE NUMBER:::: 82 OUT OF 100
+DEBUG:root:PIN::::::[(7, 46, 49), (9, 73, 24), 'CLOCK', ('pin_out_82', 'pin_in_82'), 'default']
+DEBUG:root:A-STAR START::::: (7, 46, 49)(9, 73, 24) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.012938261032104492
+DEBUG:root:WIRE NUMBER:::: 83 OUT OF 100
+DEBUG:root:PIN::::::[(11, 11, 30), (11, 47, 88), 'FAST_CLOCK', ('pin_out_83', 'pin_in_83'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 11, 30)(11, 47, 88) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.07359981536865234
+DEBUG:root:WIRE NUMBER:::: 84 OUT OF 100
+DEBUG:root:PIN::::::[(8, 76, 38), (9, 0, 30), 'CLOCK', ('pin_out_84', 'pin_in_84'), 'default']
+DEBUG:root:A-STAR START::::: (8, 76, 38)(9, 0, 30) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.0030536651611328125
+DEBUG:root:WIRE NUMBER:::: 85 OUT OF 100
+DEBUG:root:PIN::::::[(7, 18, 21), (9, 40, 7), 'CLOCK', ('pin_out_85', 'pin_in_85'), 'default']
+DEBUG:root:A-STAR START::::: (7, 18, 21)(9, 40, 7) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.014413118362426758
+DEBUG:root:WIRE NUMBER:::: 86 OUT OF 100
+DEBUG:root:PIN::::::[(10, 56, 33), (10, 91, 66), 'FAST_CLOCK', ('pin_out_86', 'pin_in_86'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (10, 56, 33)(10, 91, 66) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.019450664520263672
+DEBUG:root:WIRE NUMBER:::: 87 OUT OF 100
+DEBUG:root:PIN::::::[(6, 13, 73), (7, 5, 39), 'DATA', ('pin_out_87', 'pin_in_87'), 'default']
+DEBUG:root:A-STAR START::::: (6, 13, 73)(7, 5, 39) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0010058879852294922
+DEBUG:root:WIRE NUMBER:::: 88 OUT OF 100
+DEBUG:root:PIN::::::[(11, 27, 4), (11, 62, 47), 'FAST_CLOCK', ('pin_out_88', 'pin_in_88'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 27, 4)(11, 62, 47) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.09228110313415527
+DEBUG:root:WIRE NUMBER:::: 89 OUT OF 100
+DEBUG:root:PIN::::::[(7, 86, 7), (8, 47, 14), 'DATA', ('pin_out_89', 'pin_in_89'), 'default']
+DEBUG:root:A-STAR START::::: (7, 86, 7)(8, 47, 14) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.006147861480712891
+DEBUG:root:WIRE NUMBER:::: 90 OUT OF 100
+DEBUG:root:PIN::::::[(9, 28, 74), (9, 7, 2), 'HIGH_SPEED_DATA', ('pin_out_90', 'pin_in_90'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 28, 74)(9, 7, 2) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0544133186340332
+DEBUG:root:WIRE NUMBER:::: 91 OUT OF 100
+DEBUG:root:PIN::::::[(9, 18, 58), (9, 19, 21), 'HIGH_SPEED_DATA', ('pin_out_91', 'pin_in_91'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 18, 58)(9, 19, 21) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.003003835678100586
+DEBUG:root:WIRE NUMBER:::: 92 OUT OF 100
+DEBUG:root:PIN::::::[(9, 29, 81), (9, 68, 9), 'HIGH_SPEED_DATA', ('pin_out_92', 'pin_in_92'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 29, 81)(9, 68, 9) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.12408995628356934
+DEBUG:root:WIRE NUMBER:::: 93 OUT OF 100
+DEBUG:root:PIN::::::[(7, 88, 39), (9, 29, 19), 'CLOCK', ('pin_out_93', 'pin_in_93'), 'default']
+DEBUG:root:A-STAR START::::: (7, 88, 39)(9, 29, 19) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.00939488410949707
+DEBUG:root:WIRE NUMBER:::: 94 OUT OF 100
+DEBUG:root:PIN::::::[(11, 64, 64), (11, 80, 30), 'FAST_CLOCK', ('pin_out_94', 'pin_in_94'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 64, 64)(11, 80, 30) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.011910200119018555
+DEBUG:root:WIRE NUMBER:::: 95 OUT OF 100
+DEBUG:root:PIN::::::[(10, 34, 27), (10, 66, 26), 'FAST_CLOCK', ('pin_out_95', 'pin_in_95'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (10, 34, 27)(10, 66, 26) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.0020024776458740234
+DEBUG:root:WIRE NUMBER:::: 96 OUT OF 100
+DEBUG:root:PIN::::::[(11, 36, 84), (11, 83, 10), 'FAST_CLOCK', ('pin_out_96', 'pin_in_96'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 36, 84)(11, 83, 10) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.09648919105529785
+DEBUG:root:WIRE NUMBER:::: 97 OUT OF 100
+DEBUG:root:PIN::::::[(6, 79, 40), (7, 5, 60), 'DATA', ('pin_out_97', 'pin_in_97'), 'default']
+DEBUG:root:A-STAR START::::: (6, 79, 40)(7, 5, 60) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0010380744934082031
+DEBUG:root:WIRE NUMBER:::: 98 OUT OF 100
+DEBUG:root:PIN::::::[(9, 51, 12), (9, 52, 19), 'HIGH_SPEED_DATA', ('pin_out_98', 'pin_in_98'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 51, 12)(9, 52, 19) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0
+DEBUG:root:WIRE NUMBER:::: 99 OUT OF 100
+DEBUG:root:PIN::::::[(8, 12, 54), (9, 64, 72), 'HIGH_SPEED_DATA', ('pin_out_99', 'pin_in_99'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 12, 54)(9, 64, 72) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0030362606048583984
+DEBUG:root:WIRE NUMBER:::: 100 OUT OF 100
+DEBUG:root:PIN::::::[(8, 36, 55), (8, 39, 16), 'CLOCK', ('pin_out_100', 'pin_in_100'), 'default']
+DEBUG:root:A-STAR START::::: (8, 36, 55)(8, 39, 16) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.0020325183868408203
+DEBUG:matplotlib.colorbar:locator: <matplotlib.ticker.MaxNLocator object at 0x000001F147EC9978>
+DEBUG:matplotlib.colorbar:Using auto colorbar locator on colorbar
+DEBUG:matplotlib.colorbar:locator: <matplotlib.ticker.MaxNLocator object at 0x000001F147EC9978>
+DEBUG:matplotlib.colorbar:Setting pcolormesh
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal bold normal>) = 0.33499999999999996
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal bold normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal bold normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal bold normal>) = 1.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal bold normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal bold normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Calibri' (calibrili.ttf) italic normal light normal>) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'MingLiU-ExtB' (mingliub.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Microsoft JhengHei' (msjhbd.ttc) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'ROG Fonts' (ROGFonts-Regular.otf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Calibri' (calibrib.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Trebuchet MS' (trebucbi.ttf) italic normal bold normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Segoe MDL2 Assets' (segmdl2.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'AlternateGothic2 BT' (Alternate Gothic No2 BT.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Leelawadee UI' (LeelawUI.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Corbel' (corbelz.ttf) italic normal bold normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Segoe UI' (segoeuisl.ttf) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Consolas' (consolab.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sitka Small' (SitkaB.ttc) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Segoe UI' (segoeui.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Calibri' (calibri.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Segoe UI' (seguisb.ttf) normal normal semibold normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial' (arialbd.ttf) normal normal bold normal>) = 6.698636363636363
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Verdana' (verdanai.ttf) italic normal 400 normal>) = 4.6863636363636365
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Yu Gothic' (YuGothL.ttc) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Segoe UI' (segoeuiz.ttf) italic normal bold normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Leelawadee UI' (LeelUIsl.ttf) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ebrima' (ebrimabd.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'MV Boli' (mvboli.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Segoe UI' (seguili.ttf) italic normal light normal>) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Segoe UI' (segoeuib.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Webdings' (webdings.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Courier New' (courbd.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Microsoft Tai Le' (taileb.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Comic Sans MS' (comici.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tahoma' (tahomabd.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sitka Small' (Sitka.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Franklin Gothic Medium' (framdit.ttf) italic normal medium normal>) = 11.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Consolas' (consola.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sitka Small' (SitkaI.ttc) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ink Free' (Inkfree.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Calibri' (calibriz.ttf) italic normal bold normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lucida Console' (lucon.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Mongolian Baiti' (monbaiti.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Consolas' (consolaz.ttf) italic normal bold normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Calibri' (calibrii.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Comic Sans MS' (comic.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Corbel' (corbell.ttf) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Palatino Linotype' (pala.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial' (arialbi.ttf) italic normal bold normal>) = 7.698636363636363
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Tahoma' (tahoma.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Myanmar Text' (mmrtextb.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Georgia' (georgiai.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Times New Roman' (timesi.ttf) italic normal roman normal>) = 11.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Cambria' (cambria.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Microsoft Himalaya' (himalaya.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'SimSun-ExtB' (simsunb.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Microsoft Yi Baiti' (msyi.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Courier New' (courbi.ttf) italic normal bold normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Segoe UI Historic' (seguihis.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Times New Roman' (timesbd.ttf) normal normal roman normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Candara' (Candarali.ttf) italic normal light normal>) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Marlett' (marlett.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Segoe UI' (seguisbi.ttf) italic normal semibold normal>) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Microsoft JhengHei' (msjh.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial' (ariblk.ttf) normal normal black normal>) = 6.888636363636364
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Bahnschrift' (bahnschrift.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Cambria' (cambriab.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Calibri' (calibril.ttf) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Microsoft YaHei' (msyhbd.ttc) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Courier New' (couri.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Segoe UI Emoji' (seguiemj.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Consolas' (consolai.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Malgun Gothic' (malgunbd.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Comic Sans MS' (comicz.ttf) italic normal bold normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Yu Gothic' (YuGothR.ttc) normal normal regular normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Microsoft PhagsPa' (phagspab.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Candara' (Candaral.ttf) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Segoe UI' (segoeuii.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Segoe UI' (seguibli.ttf) italic normal black normal>) = 11.525
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Trebuchet MS' (trebucit.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Franklin Gothic Medium' (framd.ttf) normal normal medium normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nirmala UI' (NirmalaS.ttf) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial' (arial.ttf) normal normal 400 normal>) = 6.413636363636363
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Yu Gothic' (YuGothB.ttc) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Lucida Sans Unicode' (l_10646.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Constantia' (constan.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Comic Sans MS' (comicbd.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Myanmar Text' (mmrtext.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Georgia' (georgiaz.ttf) italic normal bold normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Segoe Print' (segoepr.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Segoe UI' (seguibl.ttf) normal normal black normal>) = 10.525
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sylfaen' (sylfaen.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Georgia' (georgia.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nirmala UI' (Nirmala.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Palatino Linotype' (palab.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Javanese Text' (javatext.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Verdana' (verdanaz.ttf) italic normal bold normal>) = 4.971363636363637
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Candara' (Candarab.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Microsoft JhengHei' (msjhl.ttc) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Palatino Linotype' (palabi.ttf) italic normal bold normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Microsoft YaHei' (msyhl.ttc) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Corbel' (corbel.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Leelawadee UI' (LeelaUIb.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Gabriola' (Gabriola.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Microsoft PhagsPa' (phagspa.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Corbel' (corbelli.ttf) italic normal light normal>) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Sitka Small' (SitkaZ.ttc) italic normal bold normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Ebrima' (ebrima.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Symbol' (symbol.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Constantia' (constanz.ttf) italic normal bold normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Candara' (Candarai.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Cambria' (cambriai.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Gadugi' (gadugi.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Times New Roman' (timesbi.ttf) italic normal roman normal>) = 11.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Courier New' (cour.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Segoe Script' (segoescb.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Segoe UI Symbol' (seguisym.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Candara' (Candaraz.ttf) italic normal bold normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Nirmala UI' (NirmalaB.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Verdana' (verdanab.ttf) normal normal bold normal>) = 3.9713636363636367
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Microsoft YaHei' (msyh.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Segoe Print' (segoeprb.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Georgia' (georgiab.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'SimSun' (simsun.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Constantia' (constani.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Cambria' (cambriaz.ttf) italic normal bold normal>) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Segoe Script' (segoesc.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Yu Gothic' (YuGothM.ttc) normal normal medium normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Palatino Linotype' (palai.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Gadugi' (gadugib.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Wingdings' (wingding.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Malgun Gothic' (malgunsl.ttf) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Microsoft New Tai Lue' (ntailub.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Times New Roman' (times.ttf) normal normal roman normal>) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Corbel' (corbeli.ttf) italic normal 400 normal>) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Microsoft New Tai Lue' (ntailu.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Corbel' (corbelb.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Microsoft Tai Le' (taile.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Arial' (ariali.ttf) italic normal 400 normal>) = 7.413636363636363
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Segoe UI' (segoeuil.ttf) normal normal light normal>) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Microsoft Sans Serif' (micross.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'HoloLens MDL2 Assets' (holomdl2.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Segoe UI' (seguisli.ttf) italic normal light normal>) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Trebuchet MS' (trebuc.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Candara' (Candara.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Malgun Gothic' (malgun.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Verdana' (verdana.ttf) normal normal 400 normal>) = 3.6863636363636365
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Impact' (impact.ttf) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Constantia' (constanb.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'MS Gothic' (msgothic.ttc) normal normal 400 normal>) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(<Font 'Trebuchet MS' (trebucbd.ttf) normal normal bold normal>) = 10.335
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\Venkata Prasanna\\Anaconda3\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.colorbar:locator: <matplotlib.ticker.MaxNLocator object at 0x000001F14B7D7240>
+DEBUG:matplotlib.colorbar:Using auto colorbar locator on colorbar
+DEBUG:matplotlib.colorbar:locator: <matplotlib.ticker.MaxNLocator object at 0x000001F14B7D7240>
+DEBUG:matplotlib.colorbar:Setting pcolormesh
+DEBUG:matplotlib.colorbar:locator: <matplotlib.ticker.MaxNLocator object at 0x000001F14B97B860>
+DEBUG:matplotlib.colorbar:Using auto colorbar locator on colorbar
+DEBUG:matplotlib.colorbar:locator: <matplotlib.ticker.MaxNLocator object at 0x000001F14B97B860>
+DEBUG:matplotlib.colorbar:Setting pcolormesh
+DEBUG:matplotlib.colorbar:locator: <matplotlib.ticker.MaxNLocator object at 0x000001F14B7B7898>
+DEBUG:matplotlib.colorbar:Using auto colorbar locator on colorbar
+DEBUG:matplotlib.colorbar:locator: <matplotlib.ticker.MaxNLocator object at 0x000001F14B7B7898>
+DEBUG:matplotlib.colorbar:Setting pcolormesh
+DEBUG:matplotlib.colorbar:locator: <matplotlib.ticker.MaxNLocator object at 0x000001F14BAD02E8>
+DEBUG:matplotlib.colorbar:Using auto colorbar locator on colorbar
+DEBUG:matplotlib.colorbar:locator: <matplotlib.ticker.MaxNLocator object at 0x000001F14BAD02E8>
+DEBUG:matplotlib.colorbar:Setting pcolormesh
+DEBUG:matplotlib.colorbar:locator: <matplotlib.ticker.MaxNLocator object at 0x000001F14B70B470>
+DEBUG:matplotlib.colorbar:Using auto colorbar locator on colorbar
+DEBUG:matplotlib.colorbar:locator: <matplotlib.ticker.MaxNLocator object at 0x000001F14B70B470>
+DEBUG:matplotlib.colorbar:Setting pcolormesh
