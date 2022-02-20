@@ -1,0 +1,790 @@
+DEBUG:root:Los gehts!
+DEBUG:root:WIRE NUMBER:::: 1 OUT OF 100
+DEBUG:root:PIN::::::[(8, 133, 49), (8, 0, 63), 'DATA', ('pin_out_1', 'pin_in_1'), 'default']
+DEBUG:root:A-STAR START::::: (8, 133, 49)(8, 0, 63) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.01899409294128418
+DEBUG:root:WIRE NUMBER:::: 2 OUT OF 100
+DEBUG:root:PIN::::::[(9, 0, 62), (9, 133, 42), 'HIGH_SPEED_DATA', ('pin_out_2', 'pin_in_2'), 'default']
+DEBUG:root:A-STAR START::::: (9, 0, 62)(9, 133, 42) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.031491994857788086
+DEBUG:root:WIRE NUMBER:::: 3 OUT OF 100
+DEBUG:root:PIN::::::[(10, 133, 42), (10, 133, 42), 'FAST_CLOCK', ('pin_out_3', 'pin_in_3'), 'default']
+DEBUG:root:A-STAR START::::: (10, 133, 42)(10, 133, 42) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::2.1457672119140625e-06
+DEBUG:root:WIRE NUMBER:::: 4 OUT OF 100
+DEBUG:root:PIN::::::[(8, 126, 65), (6, 106, 193), 'DATA', ('pin_out_4', 'pin_in_4'), 'default']
+DEBUG:root:A-STAR START::::: (8, 126, 65)(6, 106, 193) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.01947188377380371
+DEBUG:root:WIRE NUMBER:::: 5 OUT OF 100
+DEBUG:root:PIN::::::[(6, 94, 74), (7, 88, 135), 'DATA', ('pin_out_5', 'pin_in_5'), 'default']
+DEBUG:root:A-STAR START::::: (6, 94, 74)(7, 88, 135) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0005288124084472656
+DEBUG:root:WIRE NUMBER:::: 6 OUT OF 100
+DEBUG:root:PIN::::::[(7, 127, 61), (7, 100, 160), 'CLOCK', ('pin_out_6', 'pin_in_6'), 'default']
+DEBUG:root:A-STAR START::::: (7, 127, 61)(7, 100, 160) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.018880844116210938
+DEBUG:root:WIRE NUMBER:::: 7 OUT OF 100
+DEBUG:root:PIN::::::[(9, 82, 56), (8, 88, 59), 'CLOCK', ('pin_out_7', 'pin_in_7'), 'default']
+DEBUG:root:A-STAR START::::: (9, 82, 56)(8, 88, 59) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.00026297569274902344
+DEBUG:root:WIRE NUMBER:::: 8 OUT OF 100
+DEBUG:root:PIN::::::[(8, 85, 76), (8, 175, 152), 'HIGH_SPEED_DATA', ('pin_out_8', 'pin_in_8'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 85, 76)(8, 175, 152) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.047190189361572266
+DEBUG:root:WIRE NUMBER:::: 9 OUT OF 100
+DEBUG:root:PIN::::::[(11, 34, 26), (11, 149, 70), 'FAST_CLOCK', ('pin_out_9', 'pin_in_9'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 34, 26)(11, 149, 70) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.061048030853271484
+DEBUG:root:WIRE NUMBER:::: 10 OUT OF 100
+DEBUG:root:PIN::::::[(10, 182, 119), (11, 165, 39), 'FAST_CLOCK', ('pin_out_10', 'pin_in_10'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (10, 182, 119)(11, 165, 39) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.0007262229919433594
+DEBUG:root:WIRE NUMBER:::: 11 OUT OF 100
+DEBUG:root:PIN::::::[(8, 168, 194), (9, 129, 162), 'HIGH_SPEED_DATA', ('pin_out_11', 'pin_in_11'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 168, 194)(9, 129, 162) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0005810260772705078
+DEBUG:root:WIRE NUMBER:::: 12 OUT OF 100
+DEBUG:root:PIN::::::[(8, 106, 61), (9, 48, 28), 'CLOCK', ('pin_out_12', 'pin_in_12'), 'default']
+DEBUG:root:A-STAR START::::: (8, 106, 61)(9, 48, 28) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.0007522106170654297
+DEBUG:root:WIRE NUMBER:::: 13 OUT OF 100
+DEBUG:root:PIN::::::[(10, 35, 173), (10, 117, 42), 'FAST_CLOCK', ('pin_out_13', 'pin_in_13'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (10, 35, 173)(10, 117, 42) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.07578587532043457
+DEBUG:root:WIRE NUMBER:::: 14 OUT OF 100
+DEBUG:root:PIN::::::[(7, 34, 130), (8, 175, 80), 'CLOCK', ('pin_out_14', 'pin_in_14'), 'default']
+DEBUG:root:A-STAR START::::: (7, 34, 130)(8, 175, 80) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.05547904968261719
+DEBUG:root:WIRE NUMBER:::: 15 OUT OF 100
+DEBUG:root:PIN::::::[(11, 62, 81), (10, 3, 194), 'FAST_CLOCK', ('pin_out_15', 'pin_in_15'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 62, 81)(10, 3, 194) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.04407000541687012
+DEBUG:root:WIRE NUMBER:::: 16 OUT OF 100
+DEBUG:root:PIN::::::[(10, 180, 13), (10, 37, 16), 'FAST_CLOCK', ('pin_out_16', 'pin_in_16'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (10, 180, 13)(10, 37, 16) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.0009059906005859375
+DEBUG:root:WIRE NUMBER:::: 17 OUT OF 100
+DEBUG:root:PIN::::::[(10, 148, 24), (11, 130, 17), 'FAST_CLOCK', ('pin_out_17', 'pin_in_17'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (10, 148, 24)(11, 130, 17) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.00030493736267089844
+DEBUG:root:WIRE NUMBER:::: 18 OUT OF 100
+DEBUG:root:PIN::::::[(7, 160, 159), (8, 16, 129), 'DATA', ('pin_out_18', 'pin_in_18'), 'default']
+DEBUG:root:A-STAR START::::: (7, 160, 159)(8, 16, 129) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0011970996856689453
+DEBUG:root:WIRE NUMBER:::: 19 OUT OF 100
+DEBUG:root:PIN::::::[(7, 91, 75), (8, 46, 30), 'DATA', ('pin_out_19', 'pin_in_19'), 'default']
+DEBUG:root:A-STAR START::::: (7, 91, 75)(8, 46, 30) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0008881092071533203
+DEBUG:root:WIRE NUMBER:::: 20 OUT OF 100
+DEBUG:root:PIN::::::[(9, 151, 151), (9, 89, 175), 'HIGH_SPEED_DATA', ('pin_out_20', 'pin_in_20'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 151, 151)(9, 89, 175) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.01183009147644043
+DEBUG:root:WIRE NUMBER:::: 21 OUT OF 100
+DEBUG:root:PIN::::::[(7, 107, 101), (7, 71, 183), 'DATA', ('pin_out_21', 'pin_in_21'), 'default']
+DEBUG:root:A-STAR START::::: (7, 107, 101)(7, 71, 183) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.02212691307067871
+DEBUG:root:WIRE NUMBER:::: 22 OUT OF 100
+DEBUG:root:PIN::::::[(8, 158, 95), (9, 25, 190), 'CLOCK', ('pin_out_22', 'pin_in_22'), 'default']
+DEBUG:root:A-STAR START::::: (8, 158, 95)(9, 25, 190) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.001589059829711914
+DEBUG:root:WIRE NUMBER:::: 23 OUT OF 100
+DEBUG:root:PIN::::::[(6, 159, 169), (7, 66, 13), 'DATA', ('pin_out_23', 'pin_in_23'), 'default']
+DEBUG:root:A-STAR START::::: (6, 159, 169)(7, 66, 13) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0021669864654541016
+DEBUG:root:WIRE NUMBER:::: 24 OUT OF 100
+DEBUG:root:PIN::::::[(11, 62, 23), (10, 126, 47), 'FAST_CLOCK', ('pin_out_24', 'pin_in_24'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 62, 23)(10, 126, 47) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.011162042617797852
+DEBUG:root:WIRE NUMBER:::: 25 OUT OF 100
+DEBUG:root:PIN::::::[(8, 108, 177), (6, 82, 49), 'DATA', ('pin_out_25', 'pin_in_25'), 'default']
+DEBUG:root:A-STAR START::::: (8, 108, 177)(6, 82, 49) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.03503727912902832
+DEBUG:root:WIRE NUMBER:::: 26 OUT OF 100
+DEBUG:root:PIN::::::[(10, 34, 8), (11, 74, 11), 'FAST_CLOCK', ('pin_out_26', 'pin_in_26'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (10, 34, 8)(11, 74, 11) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.0014579296112060547
+DEBUG:root:WIRE NUMBER:::: 27 OUT OF 100
+DEBUG:root:PIN::::::[(9, 119, 77), (9, 104, 97), 'HIGH_SPEED_DATA', ('pin_out_27', 'pin_in_27'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 119, 77)(9, 104, 97) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.003545045852661133
+DEBUG:root:WIRE NUMBER:::: 28 OUT OF 100
+DEBUG:root:PIN::::::[(8, 131, 43), (7, 49, 106), 'CLOCK', ('pin_out_28', 'pin_in_28'), 'default']
+DEBUG:root:A-STAR START::::: (8, 131, 43)(7, 49, 106) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.0406038761138916
+DEBUG:root:WIRE NUMBER:::: 29 OUT OF 100
+DEBUG:root:PIN::::::[(7, 138, 145), (8, 26, 61), 'DATA', ('pin_out_29', 'pin_in_29'), 'default']
+DEBUG:root:A-STAR START::::: (7, 138, 145)(8, 26, 61) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0014150142669677734
+DEBUG:root:WIRE NUMBER:::: 30 OUT OF 100
+DEBUG:root:PIN::::::[(7, 38, 68), (7, 149, 84), 'CLOCK', ('pin_out_30', 'pin_in_30'), 'default']
+DEBUG:root:A-STAR START::::: (7, 38, 68)(7, 149, 84) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.025955915451049805
+DEBUG:root:WIRE NUMBER:::: 31 OUT OF 100
+DEBUG:root:PIN::::::[(11, 109, 86), (10, 103, 187), 'FAST_CLOCK', ('pin_out_31', 'pin_in_31'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 109, 86)(10, 103, 187) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.0056171417236328125
+DEBUG:root:WIRE NUMBER:::: 32 OUT OF 100
+DEBUG:root:PIN::::::[(8, 142, 186), (8, 161, 77), 'HIGH_SPEED_DATA', ('pin_out_32', 'pin_in_32'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 142, 186)(8, 161, 77) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.019105911254882812
+DEBUG:root:WIRE NUMBER:::: 33 OUT OF 100
+DEBUG:root:PIN::::::[(7, 113, 118), (7, 172, 115), 'DATA', ('pin_out_33', 'pin_in_33'), 'default']
+DEBUG:root:A-STAR START::::: (7, 113, 118)(7, 172, 115) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.004364013671875
+DEBUG:root:WIRE NUMBER:::: 34 OUT OF 100
+DEBUG:root:PIN::::::[(11, 80, 193), (11, 47, 133), 'FAST_CLOCK', ('pin_out_34', 'pin_in_34'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 80, 193)(11, 47, 133) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.019514799118041992
+DEBUG:root:WIRE NUMBER:::: 35 OUT OF 100
+DEBUG:root:PIN::::::[(9, 101, 58), (9, 144, 41), 'HIGH_SPEED_DATA', ('pin_out_35', 'pin_in_35'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 101, 58)(9, 144, 41) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.011100053787231445
+DEBUG:root:WIRE NUMBER:::: 36 OUT OF 100
+DEBUG:root:PIN::::::[(8, 176, 82), (6, 42, 170), 'DATA', ('pin_out_36', 'pin_in_36'), 'default']
+DEBUG:root:A-STAR START::::: (8, 176, 82)(6, 42, 170) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.10341715812683105
+DEBUG:root:WIRE NUMBER:::: 37 OUT OF 100
+DEBUG:root:PIN::::::[(9, 122, 28), (8, 142, 114), 'CLOCK', ('pin_out_37', 'pin_in_37'), 'default']
+DEBUG:root:A-STAR START::::: (9, 122, 28)(8, 142, 114) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.02009892463684082
+DEBUG:root:WIRE NUMBER:::: 38 OUT OF 100
+DEBUG:root:PIN::::::[(7, 74, 0), (6, 181, 27), 'DATA', ('pin_out_38', 'pin_in_38'), 'default']
+DEBUG:root:A-STAR START::::: (7, 74, 0)(6, 181, 27) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.025443077087402344
+DEBUG:root:WIRE NUMBER:::: 39 OUT OF 100
+DEBUG:root:PIN::::::[(9, 12, 29), (8, 104, 13), 'HIGH_SPEED_DATA', ('pin_out_39', 'pin_in_39'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 12, 29)(8, 104, 13) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.01242685317993164
+DEBUG:root:WIRE NUMBER:::: 40 OUT OF 100
+DEBUG:root:PIN::::::[(7, 161, 137), (7, 64, 158), 'CLOCK', ('pin_out_40', 'pin_in_40'), 'default']
+DEBUG:root:A-STAR START::::: (7, 161, 137)(7, 64, 158) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.01920318603515625
+DEBUG:root:WIRE NUMBER:::: 41 OUT OF 100
+DEBUG:root:PIN::::::[(11, 4, 129), (11, 148, 129), 'FAST_CLOCK', ('pin_out_41', 'pin_in_41'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 4, 129)(11, 148, 129) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.002029895782470703
+DEBUG:root:WIRE NUMBER:::: 42 OUT OF 100
+DEBUG:root:PIN::::::[(8, 139, 62), (7, 137, 160), 'DATA', ('pin_out_42', 'pin_in_42'), 'default']
+DEBUG:root:A-STAR START::::: (8, 139, 62)(7, 137, 160) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0032019615173339844
+DEBUG:root:WIRE NUMBER:::: 43 OUT OF 100
+DEBUG:root:PIN::::::[(6, 24, 195), (6, 167, 82), 'DATA', ('pin_out_43', 'pin_in_43'), 'default']
+DEBUG:root:A-STAR START::::: (6, 24, 195)(6, 167, 82) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.1276412010192871
+DEBUG:root:WIRE NUMBER:::: 44 OUT OF 100
+DEBUG:root:PIN::::::[(9, 98, 37), (8, 138, 4), 'HIGH_SPEED_DATA', ('pin_out_44', 'pin_in_44'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 98, 37)(8, 138, 4) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.010224103927612305
+DEBUG:root:WIRE NUMBER:::: 45 OUT OF 100
+DEBUG:root:PIN::::::[(7, 4, 171), (7, 11, 78), 'DATA', ('pin_out_45', 'pin_in_45'), 'default']
+DEBUG:root:A-STAR START::::: (7, 4, 171)(7, 11, 78) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.010481834411621094
+DEBUG:root:WIRE NUMBER:::: 46 OUT OF 100
+DEBUG:root:PIN::::::[(7, 35, 29), (8, 78, 74), 'DATA', ('pin_out_46', 'pin_in_46'), 'default']
+DEBUG:root:A-STAR START::::: (7, 35, 29)(8, 78, 74) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.01587677001953125
+DEBUG:root:WIRE NUMBER:::: 47 OUT OF 100
+DEBUG:root:PIN::::::[(8, 144, 113), (8, 127, 47), 'CLOCK', ('pin_out_47', 'pin_in_47'), 'default']
+DEBUG:root:A-STAR START::::: (8, 144, 113)(8, 127, 47) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.009586334228515625
+DEBUG:root:WIRE NUMBER:::: 48 OUT OF 100
+DEBUG:root:PIN::::::[(7, 60, 57), (9, 90, 9), 'CLOCK', ('pin_out_48', 'pin_in_48'), 'default']
+DEBUG:root:A-STAR START::::: (7, 60, 57)(9, 90, 9) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.023682117462158203
+DEBUG:root:WIRE NUMBER:::: 49 OUT OF 100
+DEBUG:root:PIN::::::[(6, 101, 125), (7, 74, 85), 'DATA', ('pin_out_49', 'pin_in_49'), 'default']
+DEBUG:root:A-STAR START::::: (6, 101, 125)(7, 74, 85) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0005459785461425781
+DEBUG:root:WIRE NUMBER:::: 50 OUT OF 100
+DEBUG:root:PIN::::::[(8, 37, 162), (9, 123, 138), 'HIGH_SPEED_DATA', ('pin_out_50', 'pin_in_50'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 37, 162)(9, 123, 138) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.017360925674438477
+DEBUG:root:WIRE NUMBER:::: 51 OUT OF 100
+DEBUG:root:PIN::::::[(7, 7, 109), (6, 47, 39), 'DATA', ('pin_out_51', 'pin_in_51'), 'default']
+DEBUG:root:A-STAR START::::: (7, 7, 109)(6, 47, 39) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.02378392219543457
+DEBUG:root:WIRE NUMBER:::: 52 OUT OF 100
+DEBUG:root:PIN::::::[(10, 39, 165), (10, 128, 126), 'FAST_CLOCK', ('pin_out_52', 'pin_in_52'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (10, 39, 165)(10, 128, 126) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.028022050857543945
+DEBUG:root:WIRE NUMBER:::: 53 OUT OF 100
+DEBUG:root:PIN::::::[(8, 159, 54), (9, 57, 175), 'CLOCK', ('pin_out_53', 'pin_in_53'), 'default']
+DEBUG:root:A-STAR START::::: (8, 159, 54)(9, 57, 175) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.0015041828155517578
+DEBUG:root:WIRE NUMBER:::: 54 OUT OF 100
+DEBUG:root:PIN::::::[(6, 21, 2), (8, 3, 173), 'DATA', ('pin_out_54', 'pin_in_54'), 'default']
+DEBUG:root:A-STAR START::::: (6, 21, 2)(8, 3, 173) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0294189453125
+DEBUG:root:WIRE NUMBER:::: 55 OUT OF 100
+DEBUG:root:PIN::::::[(6, 11, 69), (7, 58, 26), 'DATA', ('pin_out_55', 'pin_in_55'), 'default']
+DEBUG:root:A-STAR START::::: (6, 11, 69)(7, 58, 26) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.020762920379638672
+DEBUG:root:WIRE NUMBER:::: 56 OUT OF 100
+DEBUG:root:PIN::::::[(8, 140, 166), (8, 48, 22), 'HIGH_SPEED_DATA', ('pin_out_56', 'pin_in_56'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 140, 166)(8, 48, 22) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.002959012985229492
+DEBUG:root:WIRE NUMBER:::: 57 OUT OF 100
+DEBUG:root:PIN::::::[(9, 49, 44), (9, 54, 171), 'HIGH_SPEED_DATA', ('pin_out_57', 'pin_in_57'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 49, 44)(9, 54, 171) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.009707212448120117
+DEBUG:root:WIRE NUMBER:::: 58 OUT OF 100
+DEBUG:root:PIN::::::[(10, 44, 46), (11, 156, 9), 'FAST_CLOCK', ('pin_out_58', 'pin_in_58'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (10, 44, 46)(11, 156, 9) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.03364682197570801
+DEBUG:root:WIRE NUMBER:::: 59 OUT OF 100
+DEBUG:root:PIN::::::[(9, 33, 25), (9, 166, 26), 'HIGH_SPEED_DATA', ('pin_out_59', 'pin_in_59'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 33, 25)(9, 166, 26) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0030748844146728516
+DEBUG:root:WIRE NUMBER:::: 60 OUT OF 100
+DEBUG:root:PIN::::::[(9, 70, 131), (8, 33, 194), 'HIGH_SPEED_DATA', ('pin_out_60', 'pin_in_60'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 70, 131)(8, 33, 194) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.015820026397705078
+DEBUG:root:WIRE NUMBER:::: 61 OUT OF 100
+DEBUG:root:PIN::::::[(9, 93, 148), (7, 164, 102), 'CLOCK', ('pin_out_61', 'pin_in_61'), 'default']
+DEBUG:root:A-STAR START::::: (9, 93, 148)(7, 164, 102) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.02311086654663086
+DEBUG:root:WIRE NUMBER:::: 62 OUT OF 100
+DEBUG:root:PIN::::::[(9, 140, 22), (8, 129, 155), 'HIGH_SPEED_DATA', ('pin_out_62', 'pin_in_62'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 140, 22)(8, 129, 155) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.012073040008544922
+DEBUG:root:WIRE NUMBER:::: 63 OUT OF 100
+DEBUG:root:PIN::::::[(10, 64, 102), (11, 138, 92), 'FAST_CLOCK', ('pin_out_63', 'pin_in_63'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (10, 64, 102)(11, 138, 92) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.006376981735229492
+DEBUG:root:WIRE NUMBER:::: 64 OUT OF 100
+DEBUG:root:PIN::::::[(9, 103, 119), (9, 127, 191), 'HIGH_SPEED_DATA', ('pin_out_64', 'pin_in_64'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 103, 119)(9, 127, 191) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.02383899688720703
+DEBUG:root:WIRE NUMBER:::: 65 OUT OF 100
+DEBUG:root:PIN::::::[(9, 173, 94), (9, 19, 157), 'HIGH_SPEED_DATA', ('pin_out_65', 'pin_in_65'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 173, 94)(9, 19, 157) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0718989372253418
+DEBUG:root:WIRE NUMBER:::: 66 OUT OF 100
+DEBUG:root:PIN::::::[(11, 168, 115), (11, 169, 182), 'FAST_CLOCK', ('pin_out_66', 'pin_in_66'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 168, 115)(11, 169, 182) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.0016770362854003906
+DEBUG:root:WIRE NUMBER:::: 67 OUT OF 100
+DEBUG:root:PIN::::::[(8, 91, 46), (8, 120, 45), 'HIGH_SPEED_DATA', ('pin_out_67', 'pin_in_67'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 91, 46)(8, 120, 45) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0006327629089355469
+DEBUG:root:WIRE NUMBER:::: 68 OUT OF 100
+DEBUG:root:PIN::::::[(9, 26, 44), (9, 36, 63), 'HIGH_SPEED_DATA', ('pin_out_68', 'pin_in_68'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 26, 44)(9, 36, 63) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0023720264434814453
+DEBUG:root:WIRE NUMBER:::: 69 OUT OF 100
+DEBUG:root:PIN::::::[(11, 113, 187), (10, 41, 29), 'FAST_CLOCK', ('pin_out_69', 'pin_in_69'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 113, 187)(10, 41, 29) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.08076691627502441
+DEBUG:root:WIRE NUMBER:::: 70 OUT OF 100
+DEBUG:root:PIN::::::[(9, 27, 187), (9, 159, 24), 'HIGH_SPEED_DATA', ('pin_out_70', 'pin_in_70'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 27, 187)(9, 159, 24) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.27191615104675293
+DEBUG:root:WIRE NUMBER:::: 71 OUT OF 100
+DEBUG:root:PIN::::::[(9, 103, 132), (9, 23, 119), 'CLOCK', ('pin_out_71', 'pin_in_71'), 'default']
+DEBUG:root:A-STAR START::::: (9, 103, 132)(9, 23, 119) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.009639263153076172
+DEBUG:root:WIRE NUMBER:::: 72 OUT OF 100
+DEBUG:root:PIN::::::[(6, 110, 127), (8, 67, 129), 'DATA', ('pin_out_72', 'pin_in_72'), 'default']
+DEBUG:root:A-STAR START::::: (6, 110, 127)(8, 67, 129) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0013718605041503906
+DEBUG:root:WIRE NUMBER:::: 73 OUT OF 100
+DEBUG:root:PIN::::::[(11, 53, 40), (11, 156, 118), 'FAST_CLOCK', ('pin_out_73', 'pin_in_73'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 53, 40)(11, 156, 118) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.09373784065246582
+DEBUG:root:WIRE NUMBER:::: 74 OUT OF 100
+DEBUG:root:PIN::::::[(10, 163, 14), (10, 30, 106), 'FAST_CLOCK', ('pin_out_74', 'pin_in_74'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (10, 163, 14)(10, 30, 106) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.002189159393310547
+DEBUG:root:WIRE NUMBER:::: 75 OUT OF 100
+DEBUG:root:PIN::::::[(6, 175, 0), (6, 133, 102), 'DATA', ('pin_out_75', 'pin_in_75'), 'default']
+DEBUG:root:A-STAR START::::: (6, 175, 0)(6, 133, 102) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0017571449279785156
+DEBUG:root:WIRE NUMBER:::: 76 OUT OF 100
+DEBUG:root:PIN::::::[(6, 181, 117), (6, 163, 103), 'DATA', ('pin_out_76', 'pin_in_76'), 'default']
+DEBUG:root:A-STAR START::::: (6, 181, 117)(6, 163, 103) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.00044798851013183594
+DEBUG:root:WIRE NUMBER:::: 77 OUT OF 100
+DEBUG:root:PIN::::::[(8, 101, 195), (8, 80, 67), 'CLOCK', ('pin_out_77', 'pin_in_77'), 'default']
+DEBUG:root:A-STAR START::::: (8, 101, 195)(8, 80, 67) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.020550251007080078
+DEBUG:root:WIRE NUMBER:::: 78 OUT OF 100
+DEBUG:root:PIN::::::[(10, 167, 193), (10, 125, 113), 'FAST_CLOCK', ('pin_out_78', 'pin_in_78'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (10, 167, 193)(10, 125, 113) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.0013129711151123047
+DEBUG:root:WIRE NUMBER:::: 79 OUT OF 100
+DEBUG:root:PIN::::::[(6, 61, 190), (6, 27, 17), 'DATA', ('pin_out_79', 'pin_in_79'), 'default']
+DEBUG:root:A-STAR START::::: (6, 61, 190)(6, 27, 17) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0026159286499023438
+DEBUG:root:WIRE NUMBER:::: 80 OUT OF 100
+DEBUG:root:PIN::::::[(6, 5, 152), (6, 78, 40), 'DATA', ('pin_out_80', 'pin_in_80'), 'default']
+DEBUG:root:A-STAR START::::: (6, 5, 152)(6, 78, 40) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.05761313438415527
+DEBUG:root:WIRE NUMBER:::: 81 OUT OF 100
+DEBUG:root:PIN::::::[(7, 138, 122), (7, 67, 58), 'DATA', ('pin_out_81', 'pin_in_81'), 'default']
+DEBUG:root:A-STAR START::::: (7, 138, 122)(7, 67, 58) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0332331657409668
+DEBUG:root:WIRE NUMBER:::: 82 OUT OF 100
+DEBUG:root:PIN::::::[(8, 172, 162), (9, 106, 1), 'HIGH_SPEED_DATA', ('pin_out_82', 'pin_in_82'), '1w2s']
+DEBUG:root:A-STAR START::::: (8, 172, 162)(9, 106, 1) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0017108917236328125
+DEBUG:root:WIRE NUMBER:::: 83 OUT OF 100
+DEBUG:root:PIN::::::[(9, 24, 69), (8, 10, 174), 'HIGH_SPEED_DATA', ('pin_out_83', 'pin_in_83'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 24, 69)(8, 10, 174) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.010483980178833008
+DEBUG:root:WIRE NUMBER:::: 84 OUT OF 100
+DEBUG:root:PIN::::::[(10, 99, 63), (11, 76, 164), 'FAST_CLOCK', ('pin_out_84', 'pin_in_84'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (10, 99, 63)(11, 76, 164) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.0007371902465820312
+DEBUG:root:WIRE NUMBER:::: 85 OUT OF 100
+DEBUG:root:PIN::::::[(9, 117, 97), (9, 48, 97), 'HIGH_SPEED_DATA', ('pin_out_85', 'pin_in_85'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 117, 97)(9, 48, 97) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0005209445953369141
+DEBUG:root:WIRE NUMBER:::: 86 OUT OF 100
+DEBUG:root:PIN::::::[(9, 6, 52), (8, 19, 58), 'HIGH_SPEED_DATA', ('pin_out_86', 'pin_in_86'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 6, 52)(8, 19, 58) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.0006108283996582031
+DEBUG:root:WIRE NUMBER:::: 87 OUT OF 100
+DEBUG:root:PIN::::::[(11, 91, 151), (11, 99, 185), 'FAST_CLOCK', ('pin_out_87', 'pin_in_87'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 91, 151)(11, 99, 185) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.0037031173706054688
+DEBUG:root:WIRE NUMBER:::: 88 OUT OF 100
+DEBUG:root:PIN::::::[(8, 48, 68), (9, 85, 34), 'CLOCK', ('pin_out_88', 'pin_in_88'), 'default']
+DEBUG:root:A-STAR START::::: (8, 48, 68)(9, 85, 34) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.009135723114013672
+DEBUG:root:WIRE NUMBER:::: 89 OUT OF 100
+DEBUG:root:PIN::::::[(7, 95, 53), (7, 90, 144), 'CLOCK', ('pin_out_89', 'pin_in_89'), 'default']
+DEBUG:root:A-STAR START::::: (7, 95, 53)(7, 90, 144) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.004157304763793945
+DEBUG:root:WIRE NUMBER:::: 90 OUT OF 100
+DEBUG:root:PIN::::::[(6, 131, 95), (7, 34, 187), 'DATA', ('pin_out_90', 'pin_in_90'), 'default']
+DEBUG:root:A-STAR START::::: (6, 131, 95)(7, 34, 187) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0014579296112060547
+DEBUG:root:WIRE NUMBER:::: 91 OUT OF 100
+DEBUG:root:PIN::::::[(6, 118, 107), (7, 111, 194), 'DATA', ('pin_out_91', 'pin_in_91'), 'default']
+DEBUG:root:A-STAR START::::: (6, 118, 107)(7, 111, 194) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0007150173187255859
+DEBUG:root:WIRE NUMBER:::: 92 OUT OF 100
+DEBUG:root:PIN::::::[(9, 5, 188), (9, 74, 170), 'CLOCK', ('pin_out_92', 'pin_in_92'), 'default']
+DEBUG:root:A-STAR START::::: (9, 5, 188)(9, 74, 170) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.01859307289123535
+DEBUG:root:WIRE NUMBER:::: 93 OUT OF 100
+DEBUG:root:PIN::::::[(11, 147, 162), (11, 64, 54), 'FAST_CLOCK', ('pin_out_93', 'pin_in_93'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 147, 162)(11, 64, 54) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.06671380996704102
+DEBUG:root:WIRE NUMBER:::: 94 OUT OF 100
+DEBUG:root:PIN::::::[(8, 121, 94), (9, 136, 70), 'CLOCK', ('pin_out_94', 'pin_in_94'), 'default']
+DEBUG:root:A-STAR START::::: (8, 121, 94)(9, 136, 70) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.0025336742401123047
+DEBUG:root:WIRE NUMBER:::: 95 OUT OF 100
+DEBUG:root:PIN::::::[(10, 83, 156), (10, 72, 143), 'FAST_CLOCK', ('pin_out_95', 'pin_in_95'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (10, 83, 156)(10, 72, 143) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.00036787986755371094
+DEBUG:root:WIRE NUMBER:::: 96 OUT OF 100
+DEBUG:root:PIN::::::[(9, 45, 55), (9, 181, 108), 'CLOCK', ('pin_out_96', 'pin_in_96'), 'default']
+DEBUG:root:A-STAR START::::: (9, 45, 55)(9, 181, 108) MAX LAYER::9 MIN LAYER::7
+DEBUG:root:TIME TAKEN:::::0.0940849781036377
+DEBUG:root:WIRE NUMBER:::: 97 OUT OF 100
+DEBUG:root:PIN::::::[(7, 51, 57), (6, 0, 75), 'DATA', ('pin_out_97', 'pin_in_97'), 'default']
+DEBUG:root:A-STAR START::::: (7, 51, 57)(6, 0, 75) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.0076141357421875
+DEBUG:root:WIRE NUMBER:::: 98 OUT OF 100
+DEBUG:root:PIN::::::[(7, 51, 35), (6, 177, 123), 'DATA', ('pin_out_98', 'pin_in_98'), 'default']
+DEBUG:root:A-STAR START::::: (7, 51, 35)(6, 177, 123) MAX LAYER::8 MIN LAYER::6
+DEBUG:root:TIME TAKEN:::::0.07441210746765137
+DEBUG:root:WIRE NUMBER:::: 99 OUT OF 100
+DEBUG:root:PIN::::::[(9, 101, 132), (9, 155, 82), 'HIGH_SPEED_DATA', ('pin_out_99', 'pin_in_99'), '1w2s']
+DEBUG:root:A-STAR START::::: (9, 101, 132)(9, 155, 82) MAX LAYER::9 MIN LAYER::8
+DEBUG:root:TIME TAKEN:::::0.03159189224243164
+DEBUG:root:WIRE NUMBER:::: 100 OUT OF 100
+DEBUG:root:PIN::::::[(11, 110, 173), (11, 182, 138), 'FAST_CLOCK', ('pin_out_100', 'pin_in_100'), '1w2s_shield']
+DEBUG:root:A-STAR START::::: (11, 110, 173)(11, 182, 138) MAX LAYER::11 MIN LAYER::10
+DEBUG:root:TIME TAKEN:::::0.027991771697998047
+DEBUG:matplotlib.font_manager:findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Oblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymReg.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-BoldItalic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansDisplay.ttf', name='DejaVu Sans Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmsy10.ttf', name='cmsy10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFiveSymReg.ttf', name='STIXSizeFiveSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymBol.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmss10.ttf', name='cmss10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerifDisplay.ttf', name='DejaVu Serif Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-BoldOblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmr10.ttf', name='cmr10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymBol.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf', name='STIXGeneral', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBolIta.ttf', name='STIXGeneral', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBolIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymBol.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymReg.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmex10.ttf', name='cmex10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 1.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf', name='STIXGeneral', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymBol.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmtt10.ttf', name='cmtt10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Italic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmmi10.ttf', name='cmmi10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf', name='STIXGeneral', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmb10.ttf', name='cmb10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymReg.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymReg.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 1.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansSylotiNagri-Regular.ttf', name='Noto Sans Syloti Nagri', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Verdana Italic.ttf', name='Verdana', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 4.6863636363636365
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansPhoenician-Regular.ttf', name='Noto Sans Phoenician', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Wingdings 2.ttf', name='Wingdings 2', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansBhaiksuki-Regular.ttf', name='Noto Sans Bhaiksuki', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/PTSans.ttc', name='PT Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/SFCompactItalic.ttf', name='.SF Compact', style='italic', variant='normal', weight=1000, stretch='normal', size='scalable')) = 11.62
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansMongolian-Regular.ttf', name='Noto Sans Mongolian', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Courier New.ttf', name='Courier New', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Courier New Bold Italic.ttf', name='Courier New', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansWarangCiti-Regular.ttf', name='Noto Sans Warang Citi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/AlBayan.ttc', name='Al Bayan', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXNonUniBolIta.otf', name='STIXNonUnicode', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansPauCinHau-Regular.ttf', name='Noto Sans Pau Cin Hau', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansTifinagh-Regular.ttf', name='Noto Sans Tifinagh', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansCaucasianAlbanian-Regular.ttf', name='Noto Sans Caucasian Albanian', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Tahoma.ttf', name='Tahoma', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Oriya MN.ttc', name='Oriya MN', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansSundanese-Regular.ttf', name='Noto Sans Sundanese', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Academy Engraved LET Fonts.ttf', name='Academy Engraved LET', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/PTSerif.ttc', name='PT Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansTaiTham-Regular.ttf', name='Noto Sans Tai Tham', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/SFNSRounded.ttf', name='.SF NS Rounded', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansGlagolitic-Regular.ttf', name='Noto Sans Glagolitic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/KufiStandardGK.ttc', name='KufiStandardGK', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansAvestan-Regular.ttf', name='Noto Sans Avestan', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXSizOneSymReg.otf', name='STIXSizeOneSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Apple Braille Pinpoint 8 Dot.ttf', name='Apple Braille', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/NotoSansMyanmar.ttc', name='Noto Sans Myanmar', style='normal', variant='normal', weight=900, stretch='normal', size='scalable')) = 10.525
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Marion.ttc', name='Marion', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/SFNSMonoItalic.ttf', name='.SF NS Mono', style='italic', variant='normal', weight=295, stretch='normal', size='scalable')) = 11.14975
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansLisu-Regular.ttf', name='Noto Sans Lisu', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Avenir.ttc', name='Avenir', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/KohinoorTelugu.ttc', name='Kohinoor Telugu', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Fonts/SFHello.ttc', name='SF Hello', style='normal', variant='normal', weight=200, stretch='normal', size='scalable')) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Arial Unicode.ttf', name='Arial Unicode MS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansKhudawadi-Regular.ttf', name='Noto Sans Khudawadi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Kefa.ttc', name='Kefa', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/ヒラギノ角ゴシック W9.ttc', name='Hiragino Sans', style='normal', variant='normal', weight=900, stretch='normal', size='scalable')) = 10.525
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/BigCaslon.ttf', name='Big Caslon', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Bangla Sangam MN.ttc', name='Bangla Sangam MN', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansOldSouthArabian-Regular.ttf', name='Noto Sans Old South Arabian', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Muna.ttc', name='Muna', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Sana.ttc', name='Sana', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/ヒラギノ明朝 ProN.ttc', name='Hiragino Mincho ProN', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/NotoSansOriya.ttc', name='Noto Sans Oriya', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansLinearA-Regular.ttf', name='Noto Sans Linear A', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/PTSerifCaption.ttc', name='PT Serif Caption', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/ヒラギノ角ゴシック W7.ttc', name='Hiragino Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/KohinoorGujarati.ttc', name='Kohinoor Gujarati', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Farah.ttc', name='Farah', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansPalmyrene-Regular.ttf', name='Noto Sans Palmyrene', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Arial Rounded Bold.ttf', name='Arial Rounded MT Bold', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Oriya Sangam MN.ttc', name='Oriya Sangam MN', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXNonUniBol.otf', name='STIXNonUnicode', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansModi-Regular.ttf', name='Noto Sans Modi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Al Tarikh.ttc', name='Al Tarikh', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Georgia.ttf', name='Georgia', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Arial Narrow Bold.ttf', name='Arial Narrow', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansLydian-Regular.ttf', name='Noto Sans Lydian', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Comic Sans MS Bold.ttf', name='Comic Sans MS', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/SignPainter.ttc', name='SignPainter', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Arial.ttf', name='Arial', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 6.413636363636363
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansSaurashtra-Regular.ttf', name='Noto Sans Saurashtra', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Courier New Italic.ttf', name='Courier New', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Arial Italic.ttf', name='Arial', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 7.413636363636363
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansThaana-Regular.ttf', name='Noto Sans Thaana', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Avenir Next.ttc', name='Avenir Next', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXIntUpDBol.otf', name='STIXIntegralsUpD', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXSizOneSymBol.otf', name='STIXSizeOneSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/LucidaGrande.ttc', name='Lucida Grande', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 2.872272727272727
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Trebuchet MS Bold.ttf', name='Trebuchet MS', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/ITFDevanagari.ttc', name='ITF Devanagari', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Kannada Sangam MN.ttc', name='Kannada Sangam MN', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Times New Roman Bold.ttf', name='Times New Roman', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/SFCompactRounded.ttf', name='.SF Compact Rounded', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Tamil Sangam MN.ttc', name='Tamil Sangam MN', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/AppleMyungjo.ttf', name='AppleMyungjo', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Trebuchet MS Italic.ttf', name='Trebuchet MS', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXGeneralBolIta.otf', name='STIXGeneral', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXNonUniIta.otf', name='STIXNonUnicode', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Tamil MN.ttc', name='Tamil MN', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Raanana.ttc', name='Raanana', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansNabataean-Regular.ttf', name='Noto Sans Nabataean', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Sinhala MN.ttc', name='Sinhala MN', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansAdlam-Regular.ttf', name='Noto Sans Adlam', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansTirhuta-Regular.ttf', name='Noto Sans Tirhuta', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Georgia Bold Italic.ttf', name='Georgia', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/PlantagenetCherokee.ttf', name='Plantagenet Cherokee', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansDuployan-Regular.ttf', name='Noto Sans Duployan', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/NotoNastaliq.ttc', name='Noto Nastaliq Urdu', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Nadeem.ttc', name='Nadeem', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/DevanagariMT.ttc', name='Devanagari MT', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansOldItalic-Regular.ttf', name='Noto Sans Old Italic', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Andale Mono.ttf', name='Andale Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Songti.ttc', name='Songti SC', style='normal', variant='normal', weight=900, stretch='normal', size='scalable')) = 10.525
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansMeeteiMayek-Regular.ttf', name='Noto Sans Meetei Mayek', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Krungthep.ttf', name='Krungthep', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXIntSmBol.otf', name='STIXIntegralsSm', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Times New Roman Bold Italic.ttf', name='Times New Roman', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansCham-Regular.ttf', name='Noto Sans Cham', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Didot.ttc', name='Didot', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Kannada MN.ttc', name='Kannada MN', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Apple Symbols.ttf', name='Apple Symbols', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansSamaritan-Regular.ttf', name='Noto Sans Samaritan', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Khmer MN.ttc', name='Khmer MN', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansHanunoo-Regular.ttf', name='Noto Sans Hanunoo', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/DIN Condensed Bold.ttf', name='DIN Condensed', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Seravek.ttc', name='Seravek', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/ヒラギノ丸ゴ ProN W4.ttc', name='Hiragino Maru Gothic Pro', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Cochin.ttc', name='Cochin', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/NewYorkItalic.ttf', name='.New York', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Arial Narrow Bold Italic.ttf', name='Arial Narrow', style='italic', variant='normal', weight=700, stretch='condensed', size='scalable')) = 11.535
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Brush Script.ttf', name='Brush Script MT', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXIntDBol.otf', name='STIXIntegralsD', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/ヒラギノ角ゴシック W4.ttc', name='Hiragino Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansCoptic-Regular.ttf', name='Noto Sans Coptic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Arial Bold.ttf', name='Arial', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 6.698636363636363
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXVarBol.otf', name='STIXVariants', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansPahawhHmong-Regular.ttf', name='Noto Sans Pahawh Hmong', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansSiddham-Regular.ttf', name='Noto Sans Siddham', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Futura.ttc', name='Futura', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Keyboard.ttf', name='.Keyboard', style='normal', variant='normal', weight=100, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Baskerville.ttc', name='Baskerville', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansGothic-Regular.ttf', name='Noto Sans Gothic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Hiragino Sans GB.ttc', name='Hiragino Sans GB', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Shree714.ttc', name='Shree Devanagari 714', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Arial Narrow.ttf', name='Arial Narrow', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Athelas.ttc', name='Athelas', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansLepcha-Regular.ttf', name='Noto Sans Lepcha', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Tahoma Bold.ttf', name='Tahoma', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Apple Braille.ttf', name='Apple Braille', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXSizThreeSymBol.otf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Telugu Sangam MN.ttc', name='Telugu Sangam MN', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Thonburi.ttc', name='Thonburi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Georgia Bold.ttf', name='Georgia', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/NotoSansKannada.ttc', name='Noto Sans Kannada', style='normal', variant='normal', weight=900, stretch='normal', size='scalable')) = 10.525
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansMeroitic-Regular.ttf', name='Noto Sans Meroitic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Wingdings.ttf', name='Wingdings', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/ヒラギノ角ゴシック W3.ttc', name='Hiragino Sans', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansChakma-Regular.ttf', name='Noto Sans Chakma', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansTagbanwa-Regular.ttf', name='Noto Sans Tagbanwa', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXSizFourSymReg.otf', name='STIXSizeFourSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansInscriptionalParthian-Regular.ttf', name='Noto Sans Inscriptional Parthian', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Gurmukhi.ttf', name='Gurmukhi MT', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Copperplate.ttc', name='Copperplate', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansWancho-Regular.ttf', name='Noto Sans Wancho', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/AmericanTypewriter.ttc', name='American Typewriter', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansOsmanya-Regular.ttf', name='Noto Sans Osmanya', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Bangla MN.ttc', name='Bangla MN', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/ヒラギノ角ゴシック W1.ttc', name='Hiragino Sans', style='normal', variant='normal', weight=200, stretch='normal', size='scalable')) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/STHeiti Light.ttc', name='Heiti TC', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansNewa-Regular.ttf', name='Noto Sans Newa', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Myanmar MN.ttc', name='Myanmar MN', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansImperialAramaic-Regular.ttf', name='Noto Sans Imperial Aramaic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansSoraSompeng-Regular.ttf', name='Noto Sans Sora Sompeng', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansMiao-Regular.ttf', name='Noto Sans Miao', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansOlChiki-Regular.ttf', name='Noto Sans Ol Chiki', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Chalkduster.ttf', name='Chalkduster', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Charter.ttc', name='Charter', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXGeneralBol.otf', name='STIXGeneral', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Hoefler Text Ornaments.ttf', name='Hoefler Text', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/SFCompact.ttf', name='.SF Compact', style='normal', variant='normal', weight=1000, stretch='normal', size='scalable')) = 10.62
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Kokonor.ttf', name='Kokonor', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/SukhumvitSet.ttc', name='Sukhumvit Set', style='normal', variant='normal', weight=250, stretch='normal', size='scalable')) = 10.1925
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXIntUpSmBol.otf', name='STIXIntegralsUpSm', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/EuphemiaCAS.ttc', name='Euphemia UCAS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Apple Chancery.ttf', name='Apple Chancery', style='normal', variant='normal', weight=0, stretch='normal', size='scalable')) = 10.43
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/KohinoorBangla.ttc', name='Kohinoor Bangla', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/ヒラギノ角ゴシック W0.ttc', name='Hiragino Sans', style='normal', variant='normal', weight=100, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansJavanese-Regular.otf', name='Noto Sans Javanese', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/PingFang.ttc', name='PingFang HK', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansLycian-Regular.ttf', name='Noto Sans Lycian', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Skia.ttf', name='Skia', style='normal', variant='normal', weight=5, stretch='normal', size='scalable')) = 10.42525
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NewPeninimMT.ttc', name='New Peninim MT', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Hoefler Text.ttc', name='Hoefler Text', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Chalkboard.ttc', name='Chalkboard', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Malayalam Sangam MN.ttc', name='Malayalam Sangam MN', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansKharoshthi-Regular.ttf', name='Noto Sans Kharoshthi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXGeneral.otf', name='STIXGeneral', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansElbasan-Regular.ttf', name='Noto Sans Elbasan', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Trattatello.ttf', name='Trattatello', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXSizTwoSymReg.otf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Gurmukhi Sangam MN.ttc', name='Gurmukhi Sangam MN', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Sinhala Sangam MN.ttc', name='Sinhala Sangam MN', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Mishafi Gold.ttf', name='Mishafi Gold', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Mshtakan.ttc', name='Mshtakan', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/MuktaMahee.ttc', name='Mukta Mahee', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXIntSmReg.otf', name='STIXIntegralsSm', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Lao MN.ttc', name='Lao MN', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansShavian-Regular.ttf', name='Noto Sans Shavian', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/SFNSMono.ttf', name='.SF NS Mono', style='normal', variant='normal', weight=295, stretch='normal', size='scalable')) = 10.14975
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/AppleGothic.ttf', name='AppleGothic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansTagalog-Regular.ttf', name='Noto Sans Tagalog', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansBamum-Regular.ttf', name='Noto Sans Bamum', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansMandaic-Regular.ttf', name='Noto Sans Mandaic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/SFNSItalic.ttf', name='System Font', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXIntDReg.otf', name='STIXIntegralsD', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Waseem.ttc', name='Waseem', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/Library/Fonts/Arial Unicode.ttf', name='Arial Unicode MS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansMahajani-Regular.ttf', name='Noto Sans Mahajani', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/ArabicUIDisplay.ttc', name='.Arabic UI Display', style='normal', variant='normal', weight=900, stretch='normal', size='scalable')) = 10.525
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Diwan Thuluth.ttf', name='Diwan Thuluth', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXSizThreeSymReg.otf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Baghdad.ttc', name='Baghdad', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansYi-Regular.ttf', name='Noto Sans Yi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSerifAhom-Regular.ttf', name='Noto Serif Ahom', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Herculanum.ttf', name='Herculanum', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Menlo.ttc', name='Menlo', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Arial Black.ttf', name='Arial Black', style='normal', variant='normal', weight=900, stretch='normal', size='scalable')) = 10.525
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Microsoft Sans Serif.ttf', name='Microsoft Sans Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Times New Roman Italic.ttf', name='Times New Roman', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansTaiLe-Regular.ttf', name='Noto Sans Tai Le', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansMro-Regular.ttf', name='Noto Sans Mro', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Noteworthy.ttc', name='Noteworthy', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/ヒラギノ角ゴシック W5.ttc', name='Hiragino Sans', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Courier New Bold.ttf', name='Courier New', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansLinearB-Regular.ttf', name='Noto Sans Linear B', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/PTMono.ttc', name='PT Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXGeneralItalic.otf', name='STIXGeneral', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansBuhid-Regular.ttf', name='Noto Sans Buhid', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansInscriptionalPahlavi-Regular.ttf', name='Noto Sans Inscriptional Pahlavi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansRejang-Regular.ttf', name='Noto Sans Rejang', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXSizFiveSymReg.otf', name='STIXSizeFiveSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/ZapfDingbats.ttf', name='Zapf Dingbats', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansLimbu-Regular.ttf', name='Noto Sans Limbu', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/NotoSansArmenian.ttc', name='Noto Sans Armenian', style='normal', variant='normal', weight=900, stretch='normal', size='scalable')) = 10.525
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/STHeiti Medium.ttc', name='Heiti TC', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Apple Braille Outline 8 Dot.ttf', name='Apple Braille', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/DIN Alternate Bold.ttf', name='DIN Alternate', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Bodoni 72.ttc', name='Bodoni 72', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansOldTurkic-Regular.ttf', name='Noto Sans Old Turkic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Malayalam MN.ttc', name='Malayalam MN', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansBatak-Regular.ttf', name='Noto Sans Batak', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansRunic-Regular.ttf', name='Noto Sans Runic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansSharada-Regular.ttf', name='Noto Sans Sharada', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansUgaritic-Regular.ttf', name='Noto Sans Ugaritic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Webdings.ttf', name='Webdings', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/InaiMathi-MN.ttc', name='InaiMathi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansSyriac-Regular.ttf', name='Noto Sans Syriac', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/NewYork.ttf', name='.New York', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/SFNS.ttf', name='System Font', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Farisi.ttf', name='Farisi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Helvetica.ttc', name='Helvetica', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 7.322727272727273
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Sathu.ttf', name='Sathu', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSerifBalinese-Regular.ttf', name='Noto Serif Balinese', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansNKo-Regular.ttf', name='Noto Sans NKo', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Papyrus.ttc', name='Papyrus', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansCypriot-Regular.ttf', name='Noto Sans Cypriot', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Trebuchet MS Bold Italic.ttf', name='Trebuchet MS', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansBrahmi-Regular.ttf', name='Noto Sans Brahmi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansBuginese-Regular.ttf', name='Noto Sans Buginese', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansKhojki-Regular.ttf', name='Noto Sans Khojki', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansMultani-Regular.ttf', name='Noto Sans Multani', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansMarchen-Regular.ttf', name='Noto Sans Marchen', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansPsalterPahlavi-Regular.ttf', name='Noto Sans Psalter Pahlavi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Optima.ttc', name='Optima', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/ArabicUIText.ttc', name='.Arabic UI Text', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Apple Braille Outline 6 Dot.ttf', name='Apple Braille', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansCuneiform-Regular.ttf', name='Noto Sans Cuneiform', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Mishafi.ttf', name='Mishafi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/PartyLET-plain.ttf', name='Party LET', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Wingdings 3.ttf', name='Wingdings 3', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansTakri-Regular.ttf', name='Noto Sans Takri', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansVai-Regular.ttf', name='Noto Sans Vai', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Ayuthaya.ttf', name='Ayuthaya', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXSizFourSymBol.otf', name='STIXSizeFourSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Bodoni Ornaments.ttf', name='Bodoni Ornaments', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/GillSans.ttc', name='Gill Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Kailasa.ttc', name='Kailasa', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansOsage-Regular.ttf', name='Noto Sans Osage', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Times.ttc', name='Times', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansKaithi-Regular.ttf', name='Noto Sans Kaithi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Impact.ttf', name='Impact', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Luminari.ttf', name='Luminari', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Bodoni 72 OS.ttc', name='Bodoni 72 Oldstyle', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Apple Braille Pinpoint 6 Dot.ttf', name='Apple Braille', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansOldNorthArabian-Regular.ttf', name='Noto Sans Old North Arabian', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Palatino.ttc', name='Palatino', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/DecoTypeNaskh.ttc', name='DecoType Naskh', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansOldPersian-Regular.ttf', name='Noto Sans Old Persian', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Arial Bold Italic.ttf', name='Arial', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 7.698636363636363
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXVar.otf', name='STIXVariants', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Times New Roman.ttf', name='Times New Roman', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/ヒラギノ角ゴシック W8.ttc', name='Hiragino Sans', style='normal', variant='normal', weight=800, stretch='normal', size='scalable')) = 10.43
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansOgham-Regular.ttf', name='Noto Sans Ogham', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Iowan Old Style.ttc', name='Iowan Old Style', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansHatran-Regular.ttf', name='Noto Sans Hatran', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansHanifiRohingya-Regular.ttf', name='Noto Sans Hanifi Rohingya', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansTaiViet-Regular.ttf', name='Noto Sans Tai Viet', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansCarian-Regular.ttf', name='Noto Sans Carian', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansBassaVah-Regular.ttf', name='Noto Sans Bassa Vah', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Gurmukhi MN.ttc', name='Gurmukhi MN', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Avenir Next Condensed.ttc', name='Avenir Next Condensed', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Bodoni 72 Smallcaps Book.ttf', name='Bodoni 72 Smallcaps', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/ChalkboardSE.ttc', name='Chalkboard SE', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Zapfino.ttf', name='Zapfino', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Al Nile.ttc', name='Al Nile', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Lao Sangam MN.ttf', name='Lao Sangam MN', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Savoye LET.ttc', name='Savoye LET', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Arial Narrow Italic.ttf', name='Arial Narrow', style='italic', variant='normal', weight=400, stretch='condensed', size='scalable')) = 11.25
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Diwan Kufi.ttc', name='Diwan Kufi', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansManichaean-Regular.ttf', name='Noto Sans Manichaean', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Beirut.ttc', name='Beirut', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansEgyptianHieroglyphs-Regular.ttf', name='Noto Sans Egyptian Hieroglyphs', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXIntUpSmReg.otf', name='STIXIntegralsUpSm', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/GujaratiMT.ttc', name='Gujarati MT', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Khmer Sangam MN.ttf', name='Khmer Sangam MN', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Gujarati Sangam MN.ttc', name='Gujarati Sangam MN', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansMendeKikakui-Regular.ttf', name='Noto Sans Mende Kikakui', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Georgia Italic.ttf', name='Georgia', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/HelveticaNeue.ttc', name='Helvetica Neue', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Rockwell.ttc', name='Rockwell', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansPhagsPa-Regular.ttf', name='Noto Sans PhagsPa', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Myanmar Sangam MN.ttc', name='Myanmar Sangam MN', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXIntUpBol.otf', name='STIXIntegralsUp', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Silom.ttf', name='Silom', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Verdana Bold.ttf', name='Verdana', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 3.9713636363636367
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/ヒラギノ角ゴシック W6.ttc', name='Hiragino Sans', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/ArialHB.ttc', name='Arial Hebrew', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Verdana Bold Italic.ttf', name='Verdana', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 4.971363636363637
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXSizTwoSymBol.otf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Damascus.ttc', name='Damascus', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/SuperClarendon.ttc', name='Superclarendon', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansNewTaiLue-Regular.ttf', name='Noto Sans New Tai Lue', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Galvji.ttc', name='Galvji', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXNonUni.otf', name='STIXNonUnicode', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Kohinoor.ttc', name='Kohinoor Devanagari', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/MarkerFelt.ttc', name='Marker Felt', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Trebuchet MS.ttf', name='Trebuchet MS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/NotoSerifMyanmar.ttc', name='Noto Serif Myanmar', style='normal', variant='normal', weight=900, stretch='normal', size='scalable')) = 10.525
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansOldHungarian-Regular.ttf', name='Noto Sans Old Hungarian', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXIntUpReg.otf', name='STIXIntegralsUp', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/ヒラギノ角ゴシック W2.ttc', name='Hiragino Sans', style='normal', variant='normal', weight=250, stretch='normal', size='scalable')) = 10.1925
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Corsiva.ttc', name='Corsiva Hebrew', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Symbol.ttf', name='Symbol', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Phosphate.ttc', name='Phosphate', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansOldPermic-Regular.ttf', name='Noto Sans Old Permic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Verdana.ttf', name='Verdana', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 3.6863636363636365
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/SnellRoundhand.ttc', name='Snell Roundhand', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Comic Sans MS.ttf', name='Comic Sans MS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/GeezaPro.ttc', name='Geeza Pro', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/AquaKana.ttc', name='.Aqua Kana', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Bradley Hand Bold.ttf', name='Bradley Hand', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Telugu MN.ttc', name='Telugu MN', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/NotoSansKayahLi-Regular.ttf', name='Noto Sans Kayah Li', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/Devanagari Sangam MN.ttc', name='Devanagari Sangam MN', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/Supplemental/STIXIntUpDReg.otf', name='STIXIntegralsUpD', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/System/Library/Fonts/AppleSDGothicNeo.ttc', name='Apple SD Gothic Neo', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.

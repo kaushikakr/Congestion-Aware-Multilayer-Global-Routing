@@ -1,0 +1,4 @@
+DEBUG:root:Los gehts!
+DEBUG:root:WIRE NUMBER:::: 1 OUT OF 100
+DEBUG:root:PIN::::::[(8, 133, 49), (8, 0, 63), 'DATA', ('pin_out_1', 'pin_in_1'), 'default']
+DEBUG:root:A-STAR START::::: (8, 133, 49)(8, 0, 63) MAX LAYER::8 MIN LAYER::6

@@ -1,0 +1,77 @@
+{
+    "num_of_layers": 6,
+    "via_penalty": 2,
+    "edge_weight": 1,
+    "netlist": [
+        {
+            "pin_in_1": {
+                "x_pin_in_1": 666.7,
+                "y_pin_in_1": 245.328,
+                "layer": 8
+            },
+            "pin_out_1": {
+                "x_pin_out_1": 0.1975,
+                "y_pin_out_1": 319.656,
+                "layer": 8
+            },
+            "net_property": "DATA",
+            "ndr": "default"
+        },
+        {
+            "pin_in_2": {
+                "x_pin_in_2": 0.1975,
+                "y_pin_in_2": 313.272,
+                "layer": 9
+            },
+            "pin_out_2": {
+                "x_pin_out_2": 666.599,
+                "y_pin_out_2": 210.686,
+                "layer": 9
+            },
+            "net_property": "HIGH_SPEED_DATA",
+            "ndr": "default"
+        },
+        {
+            "pin_in_3": {
+                "x_pin_in_3": 666.599,
+                "y_pin_in_3": 210.686,
+                "layer": 10
+            },
+            "pin_out_3": {
+                "x_pin_out_3": 666.599,
+                "y_pin_out_3": 210.686,
+                "layer": 10
+            },
+            "net_property": "FAST_CLOCK",
+            "ndr": "default"
+        }
+    ],
+    "chip_dimensions": {
+        "LL_X": 0.3,
+        "UR_X": 923.5,
+        "LL_Y": 0.084,
+        "UR_Y": 978.4
+    },
+    "net_properties": {
+        "DATA": {
+            "bottom_preferred_routing_layer": "M6",
+            "top_preferred_routing_layer": "M8",
+            "ndr": "default"
+        },
+        "CLOCK": {
+            "bottom_preferred_routing_layer": "M7",
+            "top_preferred_routing_layer": "M9",
+            "ndr": "default"
+        },
+        "FAST_CLOCK": {
+            "bottom_preferred_routing_layer": "M10",
+            "top_preferred_routing_layer": "M11",
+            "ndr": "1w2s_shield"
+        },
+        "HIGH_SPEED_DATA": {
+            "bottom_preferred_routing_layer": "M8",
+            "top_preferred_routing_layer": "M9",
+            "ndr": "1w2s"
+        }
+    }
+}
