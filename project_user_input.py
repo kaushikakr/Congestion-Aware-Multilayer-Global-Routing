@@ -9,18 +9,20 @@ data = json.loads(f.read())
 
 
 def askTheUser():
-    num_layers = int(input("Enter the number of layer: "))
-    via_penalty = int(input("Enter the penalty: "))
-    edge_weight = int(input("Enter the edge weight: "))
-    print("Now enter the chip dimensions")
-    ll_user_x = float(
-        input("Enter lower bound for X includes float numbers as well: "))
-    ur_user_x = float(
-        input("Enter upper bound for X includes float numbers as well: "))
-    ll_user_y = float(
-        input("Enter lower bound for Y includes float numbers as well: "))
-    ur_user_y = float(
-        input("Enter upper bound for Y includes float numbers as well: "))
+    #num_layers = int(input("Enter the number of layer: "))
+    num_layers = 6
+    #via_penalty = int(input("Enter the penalty: "))
+    via_penalty = 2
+    edge_weight = 1  # int(input("Enter the edge weight: "))
+    #print("Now enter the chip dimensions")
+    # input("Enter lower bound for X includes float numbers as well: ")
+    ll_user_x = float(0.3)
+    # input("Enter upper bound for X includes float numbers as well: ")
+    ur_user_x = float(923.5)
+    # input("Enter lower bound for Y includes float numbers as well: ")
+    ll_user_y = float(0.084)
+    # input("Enter upper bound for Y includes float numbers as well: ")
+    ur_user_y = float(978.4)
     return num_layers, via_penalty, edge_weight, ll_user_x, ur_user_x, ll_user_y, ur_user_y
 
 
@@ -54,12 +56,12 @@ def generateNetList(idx, ll_x, ur_x, ll_y, ur_y):
     generatePin["pin_out_" + str(idx)]["y_pin_out_" +
                                        str(idx)] = round(y_pin_out_4, 3)
 
-    generatePin["net_property"] = possible_netclass[randint(0, 3)]
+    generatePin["net_type"] = possible_netclass[randint(0, 3)]
     generatePin["pin_in_" +
-                str(idx)]["layer"] = preferred_layers[generatePin["net_property"]][randint(0, 2)]
+                str(idx)]["layer"] = preferred_layers[generatePin["net_type"]][randint(0, 2)]
     generatePin["pin_out_" +
-                str(idx)]["layer"] = preferred_layers[generatePin["net_property"]][randint(0, 2)]
-    generatePin["ndr"] = possible_ndr[generatePin["net_property"]]
+                str(idx)]["layer"] = preferred_layers[generatePin["net_type"]][randint(0, 2)]
+    generatePin["ndr"] = possible_ndr[generatePin["net_type"]]
     data["netlist"].append(generatePin)
 
 
@@ -76,5 +78,5 @@ while(i < 1001):
     generateNetList(i, ll_user_x, ur_user_x, ll_user_y, ur_user_y)
     i = i+1
 
-with open('final_output.json', 'w') as f:
+with open('input_file_1000_nets.json', 'w') as f:
     json.dump(data, f)

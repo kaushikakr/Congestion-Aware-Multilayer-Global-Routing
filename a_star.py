@@ -8,7 +8,7 @@ import numpy as np
 import time
 import logging
 
- 
+
 folder = 'a_star_logs_and_results'
 timestr = time.strftime("%Y%m%d-%H%M%S")
 logging.basicConfig(filename=folder + '/global_route_' +
@@ -20,11 +20,12 @@ start = time.time()
 
 tracks_used = {"default": 1, "1w2s": 3, "1w2s_shield": 5}
 capacity = {'M6': 65, 'M7': 65, 'M8': 39, 'M9': 39, 'M10': 16, 'M11': 16}
-usable_cap = 0.8
+usable_cap = 0.5
 preference = {"FAST_CLOCK": 1, "HIGH_SPEED_DATA": 2, "CLOCK": 3, "DATA": 4}
 num_used_tracks = {}
 upper_layer = {"FAST_CLOCK": 11, "HIGH_SPEED_DATA": 9, "CLOCK": 9, "DATA": 8}
 lower_layer = {"FAST_CLOCK": 6, "HIGH_SPEED_DATA": 6, "CLOCK": 6, "DATA": 6}
+ov = 0.8
 
 
 class FileOperations:
@@ -138,7 +139,7 @@ def a_star_search(graph: WeightedEdge, start: Location, goal: Location):
             if next in num_used_tracks.keys():
                 if num_used_tracks[next] > usable_cap * capacity['M' + str(next[0])]:
                     new_cost = cost_so_far[current] + \
-                        graph.cost(next) + 5 * num_used_tracks[next]
+                        graph.cost(next) + 50 * num_used_tracks[next]
                 else:
                     new_cost = cost_so_far[current] + graph.cost(next)
             else:
@@ -233,18 +234,17 @@ def visualize(paths):
     for i in range(len(paths)):
         for j in paths[i]:
             grid.at[j, "reached"] = i+1
-    print(num_used_tracks)
+
     print("***********************************************")
 
     grid["edge_congestion"] = 0
     for i in range(len(paths)):
         for j in paths[i]:
-            #print("j is", j)
             # print("Number of used tracks", num_used_tracks[j])
             # print("Capacity", capacity["M"+str(j[0])])
             if(j in num_used_tracks.keys()):
-                grid.at[j, "edge_congestion"] = 100 * \
-                    (num_used_tracks[j]/capacity["M"+str(j[0])])
+                grid.at[j, "edge_congestion"] = (
+                    1/ov)*(num_used_tracks[j]/capacity["M"+str(j[0])])
             else:
                 grid.at[j, "edge_congestion"] = 0
 
@@ -257,71 +257,92 @@ def visualize(paths):
                 # print(i)
                 image1.append(grid.at[(k, i, j), "reached"])
         k += 1
-
     B = np.reshape(image1, (-1, num_cols))
     # print(B)
     np.savetxt(r"grid_data.txt", B, fmt="%d")
-
     '''
+    #fig, axs = plt.subplots(ncols=3, nrows=2)
+
+    image1 = []
+    for j in range(num_rows-1, 0, -1):
+        for i in range(num_cols):
+            # image1.append(grid.at[(6, i, j), "edge_congestion"])
+            image1.append(grid.at[(6, i, j), "reached"])
+    f1, i1 = create_Fig(np.reshape(image1, (-1, num_cols)))
+    # X2 = np.reshape(image1, (-1, num_cols))
+    # sns.heatmap(X2, ax=axs[0][0], vmin=0, vmax=1).invert_yaxis()
 
     image2 = []
     for j in range(num_rows-1, 0, -1):
         for i in range(num_cols):
-            image2.append(grid.at[(6, i, j), "edge_congestion"])
-    #f2, i2 = create_Fig(np.reshape(image2, (-1, num_cols)))
-    X2 = np.reshape(image2, (-1, num_cols))
-    fig, axs = plt.subplots(ncols=3, nrows=2)
-    sns.heatmap(X2, ax=axs[0][0]).invert_yaxis()
-
-    image31 = []
-    for j in range(num_rows-1, 0, -1):
-        for i in range(num_cols):
-            image31.append(grid.at[(7, i, j), "edge_congestion"])
-    #f3, i3 = create_Fig(np.reshape(image31, (-1, num_cols)))
-    X31 = np.reshape(image31, (-1, num_cols))
-    sns.heatmap(X31, ax=axs[0][1]).invert_yaxis()
+            # image2.append(grid.at[(7, i, j), "edge_congestion"])
+            image2.append(grid.at[(7, i, j), "reached"])
+    f2, i2 = create_Fig(np.reshape(image2, (-1, num_cols)))
+    # X31 = np.reshape(image2, (-1, num_cols))
+    # sns.heatmap(X31, ax=axs[0][1], vmin=0, vmax=1).invert_yaxis()
 
     image3 = []
     for j in range(num_rows-1, 0, -1):
         for i in range(num_cols):
-            image3.append(grid.at[(8, i, j), "edge_congestion"])
-    #f4, i4 = create_Fig(np.reshape(image3, (-1, num_cols)))
-    X3 = np.reshape(image3, (-1, num_cols))
-    sns.heatmap(X3, ax=axs[0][2]).invert_yaxis()
+            image3.append(grid.at[(8, i, j), "reached"])
+    f3, i3 = create_Fig(np.reshape(image3, (-1, num_cols)))
+    # X3 = np.reshape(image3, (-1, num_cols))
+    # sns.heatmap(X3, ax=axs[0][2], vmin=0, vmax=1).invert_yaxis()
     # a2.invert_yaxis()
 
     image4 = []
     for j in range(num_rows-1, 0, -1):
         for i in range(num_cols):
-            image4.append(grid.at[(9, i, j), "edge_congestion"])
-    #f5, i5 = create_Fig(np.reshape(image4, (-1, num_cols)))
-    X4 = np.reshape(image4, (-1, num_cols))
-    sns.heatmap(X4, ax=axs[1][0]).invert_yaxis()
+            # image4.append(grid.at[(9, i, j), "edge_congestion"])
+            image4.append(grid.at[(9, i, j), "reached"])
+    f4, i4 = create_Fig(np.reshape(image4, (-1, num_cols)))
+    # X4 = np.reshape(image4, (-1, num_cols))
+    # sns.heatmap(X4, ax=axs[1][0], vmin=0, vmax=1).invert_yaxis()
 
     image5 = []
     for j in range(num_rows-1, 0, -1):
         for i in range(num_cols):
-            image5.append(grid.at[(10, i, j), "edge_congestion"])
-    #f6, i6 = create_Fig(np.reshape(image5, (-1, num_cols)))
-    X5 = np.reshape(image5, (-1, num_cols))
-    sns.heatmap(X5, ax=axs[1][1]).invert_yaxis()
+            # image5.append(grid.at[(10, i, j), "edge_congestion"])
+            image5.append(grid.at[(10, i, j), "reached"])
+    f5, i5 = create_Fig(np.reshape(image5, (-1, num_cols)))
+    # X5 = np.reshape(image5, (-1, num_cols))
+    # sns.heatmap(X5, ax=axs[1][1], vmin=0, vmax=1).invert_yaxis()
 
     print("LAST ONE")
     image6 = []
     for j in range(num_rows-1, 0, -1):
         for i in range(num_cols):
-            image6.append(grid.at[(11, i, j), "edge_congestion"])
-    #f7, i7 = create_Fig(np.reshape(image6, (-1, num_cols)))
-    X6 = np.reshape(image6, (-1, num_cols))
-    sns.heatmap(X6, ax=axs[1][2]).invert_yaxis()
+            # image6.append(grid.at[(11, i, j), "edge_congestion"])
+            image6.append(grid.at[(11, i, j), "reached"])
+    f6, i6 = create_Fig(np.reshape(image6, (-1, num_cols)))
+    # X6 = np.reshape(image6, (-1, num_cols))
+    # sns.heatmap(X6, ax=axs[1][2], vmin=0, vmax=1).invert_yaxis()
 
+    # axs[0][0].set_title("M6")
+    # axs[0][0].set_xlabel("M6")
+    # axs[0][0].set_ylabel("M6")
+    # axs[0][1].set_title("M7")
+    # axs[0][1].set_xlabel("M7")
+    # axs[0][1].set_ylabel("M7")
+    # axs[0][2].set_title("M8")
+    # axs[0][2].set_xlabel("M8")
+    # axs[0][2].set_ylabel("M8")
+    # axs[1][0].set_title("M9")
+    # axs[1][0].set_xlabel("M9")
+    # axs[1][0].set_ylabel("M9")
+    # axs[1][1].set_title("M10")
+    # axs[1][1].set_xlabel("M10")
+    # axs[1][1].set_ylabel("M10")
+    # axs[1][2].set_title("M11")
+    # axs[1][2].set_xlabel("M11")
+    # axs[1][2].set_ylabel("M11")
     plt.xlim(0, num_cols)
     plt.ylim(0, num_rows)
-    plt.show()
+    # plt.show()
 
 
 # Actual implementation starts here
-input_json_file = "final_output.json"
+input_json_file = "input_file_1000_nets.json"
 global weight
 
 
@@ -422,7 +443,7 @@ print("Time taken is:", (end-start)/60)
 
 #time_stamp = datetime.date.today()
 
-'''
+fileOperations = FileOperations()
 GR_bucket_data = {}
 GR_bucket_data["GR_bucket"] = []
 
@@ -440,8 +461,9 @@ for j in range(len(paths)):
     current_gr_bucket["net_type"] = net_type
     current_gr_bucket["net_coordinates"] = net_coordinates
     GR_bucket_data["GR_bucket"].append(current_gr_bucket)
-    fileOperations.write_to_jsonfile(folder + "/GR_bucket_" + folder + "_" + timestr + ".json", GR_bucket_data)
-'''
+    fileOperations.write_to_jsonfile(
+        folder + "/GR_bucket_" + folder + "_" + timestr + ".json", GR_bucket_data)
+
 
 textfile = open(folder + "/GR_bucket_" +
                 folder + "_" + timestr + ".txt", "w")

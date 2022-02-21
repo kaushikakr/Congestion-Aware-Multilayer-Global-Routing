@@ -14,7 +14,7 @@
                 "y_pin_out_1": 319.656,
                 "layer": 8
             },
-            "net_property": "DATA",
+            "net_type": "DATA",
             "ndr": "default"
         },
         {
@@ -28,7 +28,7 @@
                 "y_pin_out_2": 210.686,
                 "layer": 9
             },
-            "net_property": "HIGH_SPEED_DATA",
+            "net_type": "HIGH_SPEED_DATA",
             "ndr": "default"
         },
         {
@@ -42,7 +42,7 @@
                 "y_pin_out_3": 210.686,
                 "layer": 10
             },
-            "net_property": "FAST_CLOCK",
+            "net_type": "FAST_CLOCK",
             "ndr": "default"
         }
     ],
