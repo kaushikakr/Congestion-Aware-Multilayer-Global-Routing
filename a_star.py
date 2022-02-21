@@ -8,25 +8,23 @@ import numpy as np
 import time
 import logging
 
-from sqlalchemy import column, null
-
-
+ 
 folder = 'a_star_logs_and_results'
 timestr = time.strftime("%Y%m%d-%H%M%S")
 logging.basicConfig(filename=folder + '/global_route_' +
                     timestr + '.log', level=logging.DEBUG)
-# logging.disable()
+logging.disable()
 logging.debug("Los gehts!")
 
 start = time.time()
 
-tracks_used = {"default": 1, "1w2s": 5, "1w2s_shield": 3}
+tracks_used = {"default": 1, "1w2s": 3, "1w2s_shield": 5}
 capacity = {'M6': 65, 'M7': 65, 'M8': 39, 'M9': 39, 'M10': 16, 'M11': 16}
 usable_cap = 0.8
 preference = {"FAST_CLOCK": 1, "HIGH_SPEED_DATA": 2, "CLOCK": 3, "DATA": 4}
 num_used_tracks = {}
 upper_layer = {"FAST_CLOCK": 11, "HIGH_SPEED_DATA": 9, "CLOCK": 9, "DATA": 8}
-lower_layer = {"FAST_CLOCK": 10, "HIGH_SPEED_DATA": 8, "CLOCK": 7, "DATA": 6}
+lower_layer = {"FAST_CLOCK": 6, "HIGH_SPEED_DATA": 6, "CLOCK": 6, "DATA": 6}
 
 
 class FileOperations:
@@ -74,8 +72,7 @@ class ExpandWavefront:
                              (l + 1, x, y), (l - 1, x, y)]
         elif l % 2 == 1:
             if l == max_layer:
-                neighbors = [(l, x, y + 1), (l, x, y - 1),
-                             (l - 1, x, y)]
+                neighbors = [(l, x, y + 1), (l, x, y - 1), (l - 1, x, y)]
             elif l == min_layer:
                 neighbors = [(l, x, y + 1), (l, x, y - 1),
                              (l + 1, x, y)]
@@ -238,19 +235,18 @@ def visualize(paths):
             grid.at[j, "reached"] = i+1
     print(num_used_tracks)
     print("***********************************************")
-    
+
     grid["edge_congestion"] = 0
     for i in range(len(paths)):
         for j in paths[i]:
-            print("j is", j)
+            #print("j is", j)
             # print("Number of used tracks", num_used_tracks[j])
             # print("Capacity", capacity["M"+str(j[0])])
             if(j in num_used_tracks.keys()):
-                grid.at[j, "edge_congestion"] = 100*(num_used_tracks[j]/capacity["M"+str(j[0])])
+                grid.at[j, "edge_congestion"] = 100 * \
+                    (num_used_tracks[j]/capacity["M"+str(j[0])])
             else:
                 grid.at[j, "edge_congestion"] = 0
-
-            
 
     '''
     image1 = []
@@ -267,12 +263,6 @@ def visualize(paths):
     np.savetxt(r"grid_data.txt", B, fmt="%d")
 
     '''
-
-    # Visualize the denisty of routing
-    route_density = None
-
-    
-
 
     image2 = []
     for j in range(num_rows-1, 0, -1):
@@ -327,7 +317,7 @@ def visualize(paths):
 
     plt.xlim(0, num_cols)
     plt.ylim(0, num_rows)
-    # plt.show()
+    plt.show()
 
 
 # Actual implementation starts here
