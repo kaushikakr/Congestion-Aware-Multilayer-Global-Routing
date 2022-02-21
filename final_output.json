@@ -1,6 +1,5 @@
 {
     "num_of_layers": 6,
-    "via_penalty": 2,
     "edge_weight": 1,
     "netlist": [
         {
